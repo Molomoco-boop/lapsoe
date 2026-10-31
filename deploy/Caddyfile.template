@@ -1,0 +1,16 @@
+# Generado por start-public.ps1 — no editar a mano salvo que sepas lo que haces.
+# Requiere: reenvío de puertos 80 y 443 del router hacia este PC.
+
+{$DOMAIN} {
+	encode gzip
+
+	# API FastAPI
+	handle /api/* {
+		reverse_proxy 127.0.0.1:{$BACKEND_PORT}
+	}
+
+	# Frontend Next.js
+	handle {
+		reverse_proxy 127.0.0.1:{$FRONTEND_PORT}
+	}
+}

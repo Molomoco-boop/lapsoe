@@ -1,0 +1,35 @@
+# Dependencies / envs
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+.env
+.env.local
+frontend/.env.local
+frontend/.env*.local
+deploy/.env.duckdns
+worker/.wrangler/
+worker/node_modules/
+deploy/Caddyfile
+deploy/logs/
+*.egg-info/
+
+# Local data (never commit raw feeds or DB)
+data/db/
+data/raw/
+data/parquet/
+data/cache/
+*.sqlite
+*.sqlite3
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*

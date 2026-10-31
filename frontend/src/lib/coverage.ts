@@ -1,0 +1,22 @@
+/** Cobertura territorial estática (misma lógica que el Worker). */
+export const COVERAGE_TERRITORIES = [
+  { code: "ES-CT", name: "Cataluña", placsp_direct: false, placsp_aggregated: true, own_platform: true, bdns_covered: true, level: "high" },
+  { code: "ES-AN", name: "Andalucía", placsp_direct: false, placsp_aggregated: true, own_platform: true, bdns_covered: true, level: "high" },
+  { code: "ES-MD", name: "Comunidad de Madrid", placsp_direct: false, placsp_aggregated: true, own_platform: true, bdns_covered: true, level: "medium" },
+  { code: "ES-VC", name: "Comunidad Valenciana", placsp_direct: false, placsp_aggregated: true, own_platform: true, bdns_covered: true, level: "high" },
+  { code: "ES-PV", name: "País Vasco", placsp_direct: false, placsp_aggregated: true, own_platform: true, bdns_covered: true, level: "high" },
+  { code: "ES-GA", name: "Galicia", placsp_direct: false, placsp_aggregated: true, own_platform: true, bdns_covered: true, level: "medium" },
+  { code: "ES-NC", name: "Navarra", placsp_direct: false, placsp_aggregated: true, own_platform: true, bdns_covered: true, level: "high" },
+  { code: "ES-CL", name: "Castilla y León", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "high" },
+  { code: "ES-AR", name: "Aragón", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "high" },
+  { code: "ES-CM", name: "Castilla-La Mancha", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-CN", name: "Canarias", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-IB", name: "Illes Balears", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-MC", name: "Murcia", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-EX", name: "Extremadura", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-AS", name: "Asturias", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-CB", name: "Cantabria", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-RI", name: "La Rioja", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "medium" },
+  { code: "ES-CE", name: "Ceuta", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "low" },
+  { code: "ES-ML", name: "Melilla", placsp_direct: true, placsp_aggregated: false, own_platform: false, bdns_covered: true, level: "low" },
+] as const;

@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #fafafa;
+  --foreground: #1a1a1a;
+  --accent: #e30613;
+  --line: #e8e8e8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--foreground);
+  background:
+    linear-gradient(180deg, #fff0f1 0%, transparent 280px),
+    var(--background);
+  min-height: 100vh;
+}
+
+::selection {
+  background: #e30613;
+  color: #fff;
+}
+
+@layer components {
+  .container-obs {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+
+  .eyebrow {
+    @apply text-xs font-bold uppercase tracking-[0.18em] text-psoe-red;
+  }
+
+  .panel {
+    @apply rounded-2xl border border-paper-line bg-white shadow-panel;
+  }
+
+  .shock-card {
+    @apply relative overflow-hidden rounded-3xl bg-psoe-red p-6 text-white shadow-punch transition duration-300 hover:-translate-y-1 hover:bg-psoe-deep;
+  }
+
+  .shock-card::after {
+    content: "";
+    position: absolute;
+    inset: auto -20% -40% auto;
+    width: 180px;
+    height: 180px;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  .data-table {
+    @apply w-full text-left text-sm;
+  }
+
+  .data-table th {
+    @apply border-b border-paper-line pb-3 pr-4 font-bold uppercase tracking-wide text-ink-mute;
+  }
+
+  .data-table td {
+    @apply border-b border-paper-line/80 py-3.5 pr-4 align-top text-ink;
+  }
+
+  .input-obs {
+    @apply w-full rounded-full border-2 border-paper-line bg-white px-5 py-3 text-sm text-ink outline-none transition focus:border-psoe-red;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-full bg-psoe-red px-6 py-3 text-sm font-bold uppercase tracking-wide text-white transition hover:bg-psoe-deep;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center rounded-full border-2 border-psoe-red bg-white px-6 py-3 text-sm font-bold uppercase tracking-wide text-psoe-red transition hover:bg-psoe-rose;
+  }
+
+  .section-band {
+    @apply border-y-4 border-psoe-red bg-white;
+  }
+}
