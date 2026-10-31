@@ -4,13 +4,13 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const NAV = [
-  { href: "/investigaciones", label: "Lo gordo" },
+  { href: "/investigaciones", label: "Investigaciones" },
   { href: "/contratos", label: "Contratos" },
-  { href: "/subvenciones", label: "Ayudas" },
+  { href: "/subvenciones", label: "Subvenciones" },
   { href: "/encargos", label: "Encargos" },
   { href: "/fondos-europeos", label: "Fondos UE" },
-  { href: "/cobertura", label: "Mapa" },
-  { href: "/metodologia", label: "Cómo" },
+  { href: "/cobertura", label: "Cobertura" },
+  { href: "/metodologia", label: "Metodología" },
 ];
 
 export function SiteHeader() {
@@ -20,15 +20,15 @@ export function SiteHeader() {
     <header className="sticky top-0 z-40 border-b-4 border-psoe-red bg-white/95 backdrop-blur-md">
       <div className="container-obs flex h-16 items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-3">
-          <span className="flex h-10 w-10 items-center justify-center rounded-full bg-psoe-red font-display text-lg text-white animate-pulse-red">
+          <span className="flex h-10 w-10 items-center justify-center rounded-full bg-psoe-red font-display text-lg text-white">
             €
           </span>
           <div className="leading-none">
-            <span className="block font-display text-2xl tracking-wide text-psoe-red">
-              LAPSOE MACHINERY
+            <span className="block font-display text-xl tracking-wide text-psoe-red sm:text-2xl">
+              OBSERVATORIO
             </span>
             <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-ink-mute">
-              Dinero público · España
+              Gasto Público · España
             </span>
           </div>
         </Link>

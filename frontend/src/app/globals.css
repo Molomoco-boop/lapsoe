@@ -80,4 +80,32 @@ body {
   .section-band {
     @apply border-y-4 border-psoe-red bg-white;
   }
+
+  .section-dark {
+    @apply bg-psoe-ink text-white;
+  }
+
+  .section-accent {
+    @apply bg-psoe-red text-white;
+  }
+
+  .stat-highlight {
+    @apply font-display text-5xl tracking-wide text-psoe-red sm:text-6xl;
+  }
+
+  .waste-grid {
+    @apply grid gap-6 sm:grid-cols-2 lg:grid-cols-3;
+  }
+
+  .metric-card {
+    @apply panel flex flex-col gap-3 p-6;
+  }
+
+  .section-title {
+    @apply font-display text-4xl tracking-wide text-ink sm:text-5xl;
+  }
+
+  .section-eyebrow {
+    @apply text-xs font-bold uppercase tracking-[0.22em];
+  }
 }

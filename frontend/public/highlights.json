@@ -4,7 +4,7 @@
   "architecture": {
     "homepage": "cached_highlights_on_github",
     "search_and_browse": "live_via_cloudflare_worker",
-    "hosting_note": "PC apagado OK: Pages + Worker + caché en GitHub."
+    "hosting_note": ""
   },
   "bdns_totals": {
     "convocatorias_total": 661874,
@@ -12,42 +12,120 @@
     "provenance": "BDNS API totalElements",
     "data_kind": "official"
   },
-  "placsp_meta": {
-    "feed_updated": "2026-10-31T03:01:01.992+01:00",
-    "entries_sampled": 80,
-    "provenance": "PLACSP Atom sindicacion_1044",
-    "data_kind": "official_sample"
+  "macro_stats": {
+    "deuda_publica_total": 1729000000000,
+    "deuda_pib_pct": 100.2,
+    "deuda_per_capita": 36500,
+    "gasto_diario_estado": 592000000,
+    "techo_gasto_2026": 216177000000,
+    "deficit_pib_pct": 2.1,
+    "ineficiencias_anuales_estimadas": 60000000000,
+    "infraestructuras_abandonadas_total": 81000000000,
+    "ave_mal_planificado": 26240000000,
+    "publicidad_institucional_anual": 270000000,
+    "asesores_semestral": 45000000,
+    "coches_oficiales_flota": 660,
+    "pib_nominal_2026": 1725000000000,
+    "poblacion": 47400000,
+    "sources": {
+      "deuda": "Banco de España 2026",
+      "ineficiencias": "Instituto de Estudios Económicos (IEE)",
+      "infraestructuras": "Asociación de Geógrafos Españoles",
+      "techo_gasto": "Ministerio de Hacienda",
+      "publicidad": "Comisión de Publicidad Institucional / Servimedia",
+      "asesores": "IGAE / El Economista"
+    }
   },
+  "waste_cases": [
+    {
+      "icon": "✈️",
+      "name": "Aeropuerto de Ciudad Real",
+      "cost": 1100000000,
+      "description": "Primer aeropuerto internacional privado de España. Inaugurado en 2008, cerrado al tráfico comercial en 2012. Llegó a subastarse por 10.000€. Financiado con Caja Castilla-La Mancha, que también quebró.",
+      "comparison": "22 hospitales públicos de referencia",
+      "source": "El País / RTVE"
+    },
+    {
+      "icon": "💥",
+      "name": "Almacén de gas Castor",
+      "cost": 1700000000,
+      "description": "Almacén subterráneo de gas frente a Castellón. Provocó más de 1.000 terremotos. Paralizado y el Estado indemnizó a la empresa concesionaria con 1.350M€ que se cargaron a la factura del gas de los ciudadanos.",
+      "comparison": "el salario anual de 68.000 profesores",
+      "source": "El País / El Diario"
+    },
+    {
+      "icon": "🛫",
+      "name": "Aeropuerto de Castellón",
+      "cost": 158000000,
+      "description": "Construido a bombo y platillo por la Generalitat Valenciana. Pasó AÑOS sin recibir un solo avión comercial al carecer de permisos. Costó el doble de lo presupuestado.",
+      "comparison": "31.600 becas universitarias completas",
+      "source": "Newtral / El Mundo"
+    },
+    {
+      "icon": "🎬",
+      "name": "Ciudad de la Luz (Alicante)",
+      "cost": 350000000,
+      "description": "Complejo cinematográfico de la Generalitat Valenciana destinado a competir con Hollywood. La UE lo declaró ayuda de estado ilegal. Su uso quedó severamente limitado.",
+      "comparison": "3.500 viviendas de protección oficial",
+      "source": "La Sexta"
+    },
+    {
+      "icon": "🏛️",
+      "name": "Ciudad de la Cultura (Galicia)",
+      "cost": 400000000,
+      "description": "Megacomplejo cultural en el Monte Gaiás de Santiago de Compostela. El presupuesto inicial se multiplicó varias veces. Varios edificios nunca se completaron o cambiaron de uso.",
+      "comparison": "400.000 tablets para estudiantes",
+      "source": "Nueva Tribuna"
+    },
+    {
+      "icon": "🚄",
+      "name": "AVE sin pasajeros suficientes",
+      "cost": 26240000000,
+      "description": "España tiene la segunda red de alta velocidad más extensa del mundo, pero múltiples líneas operan muy por debajo de su capacidad. Estaciones vacías y trazados sin rentabilidad social.",
+      "comparison": "el presupuesto de Sanidad de 5 años",
+      "source": "Asoc. Geógrafos Españoles / El País"
+    }
+  ],
   "shocks": [
     {
-      "id": "bdns-universe",
-      "eyebrow": "Universo BDNS · oficial",
-      "value_num": 31157503,
-      "value_kind": "number",
-      "title": "concesiones de ayudas registradas",
-      "note": "Metadato oficial totalElements",
-      "href": "/subvenciones",
+      "id": "deuda-total",
+      "eyebrow": "Deuda pública · Banco de España",
+      "value_num": 1729000000000,
+      "value_kind": "euro",
+      "title": "Deuda total del Estado español",
+      "note": "100,2% del PIB · 36.500€ por cada ciudadano",
+      "href": "/estado",
       "data_kind": "official"
     },
     {
-      "id": "top-grant-window",
-      "eyebrow": "Ayuda más alta · últimos días",
-      "value_num": 90000,
+      "id": "gasto-diario",
+      "eyebrow": "Gasto diario · Hacienda",
+      "value_num": 592000000,
       "value_kind": "euro",
-      "title": "FUNDACIO CASA DE LA MUSICA DE L'HOS",
-      "note": "CATALUÑA · 2026-10-30 · concedido ≠ pagado",
-      "href": "/subvenciones/158847335",
+      "title": "gasta el Estado cada día",
+      "note": "Techo de gasto 2026: 216.177M€ récord histórico",
+      "href": "/estado",
       "data_kind": "official"
     },
     {
-      "id": "top-contract-feed",
-      "eyebrow": "Contrato top · feed PLACSP",
-      "value_num": 11586508.56,
+      "id": "infraestructuras-abandonadas",
+      "eyebrow": "Infraestructuras fallidas · estimación",
+      "value_num": 81000000000,
       "value_kind": "euro",
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "note": "Gestión del centro de atención a personas mayores en situación de dependencia (residencia y centro de atención diurna) y",
-      "href": "/contratos",
-      "data_kind": "official_sample"
+      "title": "en obras innecesarias o abandonadas",
+      "note": "Aeropuertos fantasma, AVE vacíos, edificios sin uso",
+      "href": "/investigaciones",
+      "data_kind": "calculated"
+    },
+    {
+      "id": "ineficiencias",
+      "eyebrow": "Ahorro posible · IEE",
+      "value_num": 60000000000,
+      "value_kind": "euro",
+      "title": "anuales en ineficiencias evitables",
+      "note": "Duplicidades administrativas, burocracia, organismos sin auditar",
+      "href": "/investigaciones",
+      "data_kind": "calculated"
     }
   ],
   "top_grants": [
@@ -69,7 +147,7 @@
       "importe": 45000,
       "beneficiario": "P1600000B DIPUTACION PROVINCIAL DE CUENCA",
       "nif": null,
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025 - no AdE",
+      "convocatoria": "Programa MOVES III 2025",
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
       "data_kind": "official",
@@ -81,7 +159,7 @@
       "importe": 37948.04,
       "beneficiario": "FERNANDEZ RUSTI ETC",
       "nif": "E25873175",
-      "convocatoria": "Resolución de 17/12/2024, de la Dirección General de Desarrollo Rural, por la que se convocan, para el año 2025, por el procedim",
+      "convocatoria": "Desarrollo Rural 2025",
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DESARROLLO RURAL",
       "data_kind": "official",
@@ -93,7 +171,7 @@
       "importe": 15000,
       "beneficiario": "R0200046A CARITAS DIOCESANA DE ALBACETE",
       "nif": null,
-      "convocatoria": "Resolución de 29/10/2026, de la Vicepresidencia Primera, por la que se publica la ampliación del crédito presupuestario previsto en la Resolución de 06/03/2026, por la que se publican los créditos que han de financiar las ayudas que se concedan en el ejer",
+      "convocatoria": "Ampliación de crédito presupuestario 2026",
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "SECRETARÍA GENERAL DE LA PRESIDENCIA",
       "data_kind": "official",
@@ -105,129 +183,9 @@
       "importe": 11779.35,
       "beneficiario": "TRANSPORTE SANITARIO DE NAVARRA BIDEAN, S.L.",
       "nif": "B71484810",
-      "convocatoria": " Subvención para dotar a los equipos de traslado sanitario (Bidean) 15 Sillas orugas  manuales",
+      "convocatoria": "Sillas orugas manuales para traslado sanitario",
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "SERVICIO NAVARRO DE SALUD - OSASUNBIDEA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825897,
-      "fecha": "2026-10-30",
-      "importe": 10000,
-      "beneficiario": "P0200500G AYTO. ALBOREA",
-      "nif": null,
-      "convocatoria": "Resolución de 29/10/2026, de la Vicepresidencia Primera, por la que se publica la ampliación del crédito presupuestario previsto en la Resolución de 06/03/2026, por la que se publican los créditos que han de financiar las ayudas que se concedan en el ejer",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "SECRETARÍA GENERAL DE LA PRESIDENCIA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825945,
-      "fecha": "2026-10-30",
-      "importe": 7865,
-      "beneficiario": "TRANSPORTE SANITARIO DE NAVARRA BIDEAN, S.L.",
-      "nif": "B71484810",
-      "convocatoria": "Subvención para dotar a los equipos de traslado  sanitario (Bidean) 5 Sillas orugas  eléctricas",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "SERVICIO NAVARRO DE SALUD - OSASUNBIDEA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825889,
-      "fecha": "2026-10-30",
-      "importe": 7000,
-      "beneficiario": "BEATRIZ GARCIA-ARANDA DOMINGUEZ",
-      "nif": null,
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025 - no AdE",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825888,
-      "fecha": "2026-10-30",
-      "importe": 7000,
-      "beneficiario": "JUAN FRANCISCO GUERRERO MARTIN",
-      "nif": null,
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025 - no AdE",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825898,
-      "fecha": "2026-10-30",
-      "importe": 6000,
-      "beneficiario": "ASOC. NACIONAL AMIAB DE ATENC. INTE",
-      "nif": "G02142602",
-      "convocatoria": "Resolución de 29/10/2026, de la Vicepresidencia Primera, por la que se publica la ampliación del crédito presupuestario previsto en la Resolución de 06/03/2026, por la que se publican los créditos que han de financiar las ayudas que se concedan en el ejer",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "SECRETARÍA GENERAL DE LA PRESIDENCIA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825864,
-      "fecha": "2026-10-30",
-      "importe": 5800,
-      "beneficiario": "WINKING BUS SL",
-      "nif": "B19914217",
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025  RGEC 651/2014",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825866,
-      "fecha": "2026-10-30",
-      "importe": 4400,
-      "beneficiario": "MOBY TEC COMMERCE SL",
-      "nif": "B88281530",
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025  RGEC 651/2014",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825818,
-      "fecha": "2026-10-30",
-      "importe": 4020,
-      "beneficiario": "****4910* ANGELICA MARIA FU ALVARADO",
-      "nif": null,
-      "convocatoria": "Orden de 15/04/2026, de la Consejería de Fomento, por la que se establecen las bases reguladoras y se efectúa la convocatoria de las ayudas al alquiler de vivienda en Castilla-La Mancha. 2026",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE VIVIENDA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825847,
-      "fecha": "2026-10-30",
-      "importe": 4000,
-      "beneficiario": "SOUKAINA SELLOUM LAMHAILIK",
-      "nif": null,
-      "convocatoria": "Resolución de 09/04/2025, de la D.G. de Vivienda, por la que se convocan año 2025, ayudas adquisición vivienda en propiedad por jóvenes contribuir al reto demográfico de CLM, marco Plan Estatal Vivienda 22-25",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE VIVIENDA",
-      "data_kind": "official",
-      "window": "2026-10-28 → 2026-10-31"
-    },
-    {
-      "id": 158825865,
-      "fecha": "2026-10-30",
-      "importe": 3600,
-      "beneficiario": "AZUCOURIER S.L.",
-      "nif": "B75128272",
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025  RGEC 651/2014",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
       "data_kind": "official",
       "window": "2026-10-28 → 2026-10-31"
     }
@@ -243,7 +201,7 @@
     },
     {
       "folder": "A/SER-027052/2026",
-      "title": "Evaluación del programa bilingüe español-inglés de la Comunidad de Madrid, y aplicación, calificación y certificación de las pruebas de nivel lingüístico en inglés, de os alumnos de centros educativos públicos bilingües y privados concertados bilingües, durante el curso 2026-2027. Dividido en dos lotes",
+      "title": "Evaluación del programa bilingüe español-inglés de la Comunidad de Madrid",
       "organo": "Consejería de Educación, Ciencia y Universidades",
       "importe": 7028470.15,
       "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/evaluacion-programa-bilingue-espanol-ingles-comunidad-madrid-aplicacion-2",
@@ -251,7 +209,7 @@
     },
     {
       "folder": "ICFO-2026-050",
-      "title": "ICFO-2026-050 Subministrament, instal·lació i posada en funcionament d’un Wafer Bonding Line per a l’ICFO, finançat pel programa FEDER Catalunya 2021‐2027.",
+      "title": "Wafer Bonding Line para l'ICFO, finançat pel programa FEDER Catalunya 2021-2027",
       "organo": "ICFO - Institut de Ciències Fotòniques",
       "importe": 2185000.0,
       "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/5a64ab14-19bb-411c-9e3c-e41686def126/300925203",
@@ -259,7 +217,7 @@
     },
     {
       "folder": "2026/45-EG626",
-      "title": "L'objecte del present contracte són les Obres d'ampliació i reforma del complex esportiu de Sant Pere i Sant Pau (Tarragona), situada davant edifici Perú, s/n, consistents en la construcció d’un nou equipament amb gimnàs, nous vestidors, així com l’ampliació de les instal·lacions existents mitjançant la incorporació d’una nova zona d'aigües i la renovació dels vestidors i àrea de recepció actuals, d’acord amb el detall contemplat a la memòria que conté el projecte.\nL'actuació respon a la necessitat d'ampliar i modernitzar els equipaments esportius municipals actuals, per tal de dotar al barri de Sant Pere i Sant Pau d’un complex que ofereixi tots els serveis esportius integrals dels quals disposen la resta d’equipaments esportius municipals de Tarragona, tot en compliment de les competències municipals relatives a promocionar l’esport i les instal·lacions esportives municipals establertes a la LBRL i d’acord amb les competències estatutàries del PMET.\nLa relació exhaustiva dels treballs objecte de l’actuació, així com la definició de les seves característiques tècniques, abast i condicions d’execució, es troba descrita amb major precisió en el projecte tècnic incorporat a l’expedient",
+      "title": "Ampliació i reforma del complex esportiu de Sant Pere i Sant Pau (Tarragona)",
       "organo": "Patronat Municipal d'Esports de Tarragona",
       "importe": 2065222.28,
       "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/ce412978-3c1b-4745-a67b-c8ff46663277/300925082",
@@ -267,90 +225,10 @@
     },
     {
       "folder": "HM-2026-338",
-      "title": "Servei de manteniment integral dels sistemes d’automatització de la Farmàcia Hospitalària de l’Hospital del Mar, centre del Consorci Mar Parc de Salut de Barcelona, segons característiques i condicions definides al Plec de prescripcions tècniques de la licitació.\n\nAquest contracte inclou igualment el manteniment dels equips addicionals que SMARTHEALTH LOGISTICS, S.L. posa a disposició de l’Hospital del Mar mitjançant un conveni de col·laboració que inclou la donació d’aquests equips, indicant que el CMPSB s’ha de fer càrrec del seu manteniment. Els equips que formen part de la donació són necessaris i imprescindibles per completar la funcionalitat prevista de la plataforma automatitzada de gestió farmacèutica de forma global a tot l’Hospital del Mar.",
+      "title": "Manteniment integral dels sistemes d'automatització de la Farmàcia Hospitalària de l'Hospital del Mar",
       "organo": "Consorci Mar Parc de Salut de Barcelona",
       "importe": 1609742.4,
       "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/01548e6c-1d59-4d6b-99ec-fbe767f717c3/300925185",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "CONTR 2026 0000258043",
-      "title": "mixto de suministro y mantenimiento mobiliario urbano en ámbito consorcio",
-      "organo": "Consorcio de Transporte Metropolitano del Área de Sevilla",
-      "importe": 1036500.0,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1013622",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "202601",
-      "title": "Acuerdo marco para el suministro de bolsas y fundas compostables, cubos y contenedores para la recogida selectiva puerta a puerta entre los miembros asociados y los miembros que puedan adherirse durante la vigencia del acuerdo marco",
-      "organo": "Associació de Municipis Catalans per a la Recollida Selectiva Porta a Porta",
-      "importe": 715247.92,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/2f96fae3-707e-4d3f-93e5-8cd58a4fa4f6/300925162",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "3157_8/2026/JA_CONAD",
-      "title": "Contratación conjunta de proyecto y obra de la remodelación de la subestación de 66 kV y del Centro de Control de 6,3 kV en la ETAP de Canraso, en Tudela (Navarra)",
-      "organo": "JUNTA DE GOBIERNO JUNTA MUNICIPAL DE AGUAS DE TUDELA",
-      "importe": 650000.0,
-      "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2610301046438958C218",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "4-SV-15/2020-RP2",
-      "title": "Proyecto revisado y actualizado de construcción de rotonda en el ramal N-I-445-2 en Sorabilla (Andoain) (4-SV-15/2020-RP2)",
-      "organo": "Diputación Foral de Gipuzkoa-Consejo de Gobierno Foral",
-      "importe": 639060.68,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso742778/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "EXPT25-00015",
-      "title": "servicio de desarrollo para sistemas naos, portal ceis y canal de denuncias basado en el acuerdo marco de desarrollo de sw ac23-00001",
-      "organo": "Sociedad Andaluza para el Desarrollo de las Telecomunicaciones, S.A. (SANDETEL)",
-      "importe": 634555.07,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=801825",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "PA SUM 20/2026 (A/SUM-024255/2026)",
-      "title": "Suministro para la automatización del almacenamiento y preparación de medicamentos en sistemas personalizados de dosificación",
-      "organo": "Agencia de Contratación Sanitaria de la Comunidad de Madrid",
-      "importe": 612000.0,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-automatizacion-almacenamiento-preparacion-medicamentos-sistemas",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "E260000096",
-      "title": "Contratación del suministro, la instalación, la configuración y la puesta en marcha de los elementos necesarios para la actualización y ampliación del entorno de seguridad del Museu Picasso de Barcelona",
-      "organo": "Fundació Museu Picasso de Barcelona",
-      "importe": 568743.84,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/9db18ee6-87b1-4d93-9e53-2794eabfa934/300924994",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "3002_Casa Consistorial fase 2",
-      "title": "Reforma de la Casa Consistorial - fase 2 ampliación",
-      "organo": "Junta de Gobierno Local",
-      "importe": 426648.5,
-      "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2610081120058DFC8628",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "3188_ABR0025/2026",
-      "title": "ABR0025/2026 Contratación del servicio de realización de encuestas internacionales para el proyecto de investigación ILLADMIN (acuerdo subvención101162094) en la Universidad Pública de Navarra",
-      "organo": "Rector",
-      "importe": 380000.0,
-      "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26100110531300E84CA6",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "C-336A/019-26 (A/SUM-030271/2026)",
-      "title": "Suministro de productos químicos y servicio de mantenimiento de equipos de medición y análisis de las piscinas gestionadas por la Dirección General de Deportes",
-      "organo": "Consejería de Cultura, Turismo y Deporte",
-      "importe": 321550.6,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-productos-quimicos-servicio-mantenimiento-equipos-medicion-analisis-1",
       "data_kind": "official_sample"
     }
   ],
@@ -358,6 +236,6 @@
   "local": null,
   "local_analysis_summary": null,
   "errors": [],
-  "disclaimer": "Portada cacheada en GitHub. Navegación/búsqueda en vivo vía Cloudflare Worker. Concesión ≠ pago.",
-  "site": "Lapsoe Machinery"
+  "disclaimer": "Datos procedentes de fuentes oficiales públicas. Concesión ≠ pago. Contrato adjudicado ≠ ejecutado al importe inicial.",
+  "site": "Observatorio del Gasto Público"
 }

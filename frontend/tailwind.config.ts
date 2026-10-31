@@ -60,10 +60,30 @@ export default {
           "0%, 100%": { boxShadow: "0 0 0 0 rgba(227,6,19,0.35)" },
           "50%": { boxShadow: "0 0 0 12px rgba(227,6,19,0)" },
         },
+        countUp: {
+          '0%': { opacity: '0', transform: 'translateY(10px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        fillBar: {
+          '0%': { width: '0%' },
+          '100%': { width: 'var(--bar-width)' },
+        },
+        fadeInUp: {
+          '0%': { opacity: '0', transform: 'translateY(24px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        scaleIn: {
+          '0%': { opacity: '0', transform: 'scale(0.9)' },
+          '100%': { opacity: '1', transform: 'scale(1)' },
+        },
       },
       animation: {
         rise: "rise 0.7s ease-out both",
         "pulse-red": "pulseRed 2.4s ease-out infinite",
+        'count-up': 'countUp 0.5s ease-out both',
+        'fill-bar': 'fillBar 1.5s ease-out both',
+        'fade-in-up': 'fadeInUp 0.8s ease-out both',
+        'scale-in': 'scaleIn 0.6s ease-out both',
       },
     },
   },

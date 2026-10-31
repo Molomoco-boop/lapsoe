@@ -26,11 +26,11 @@ const mono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Lapsoe Machinery — El dinero público, a la vista",
-    template: "%s · Lapsoe Machinery",
+    default: "Observatorio del Gasto Público — España",
+    template: "%s · Observatorio del Gasto Público",
   },
   description:
-    "Lapsoe Machinery: portal de transparencia con cifras llamativas de contratos, subvenciones y encargos públicos en España. Datos oficiales, sin inventar.",
+    "Análisis riguroso del gasto público en España: contratos, subvenciones, infraestructuras fallidas y despilfarro documentado. Datos de fuentes oficiales (BDNS, PLACSP, Banco de España).",
 };
 
 export default function RootLayout({
