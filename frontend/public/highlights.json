@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:43:34.630914Z",
+  "generated_at": "2026-11-02T13:14:21.862104Z",
   "generated_by": "github-actions",
   "architecture": {
     "homepage": "cached_highlights_on_github",
@@ -7,13 +7,13 @@
     "hosting_note": "PC apagado OK: Pages + Worker + caché en GitHub."
   },
   "bdns_totals": {
-    "convocatorias_total": 661874,
-    "concesiones_total": 31157610,
+    "convocatorias_total": 661875,
+    "concesiones_total": 31243764,
     "provenance": "BDNS API totalElements",
     "data_kind": "official"
   },
   "placsp_meta": {
-    "feed_updated": "2026-11-01T03:00:31.575+01:00",
+    "feed_updated": "2026-11-02T03:00:43.808+01:00",
     "entries_sampled": 80,
     "provenance": "PLACSP Atom sindicacion_1044",
     "data_kind": "official_sample"
@@ -22,7 +22,7 @@
     {
       "id": "bdns-universe",
       "eyebrow": "Universo BDNS · oficial",
-      "value_num": 31157610,
+      "value_num": 31243764,
       "value_kind": "number",
       "title": "concesiones de ayudas registradas",
       "note": "Metadato oficial totalElements",
@@ -32,11 +32,11 @@
     {
       "id": "top-grant-window",
       "eyebrow": "Ayuda más alta · últimos días",
-      "value_num": 90000,
+      "value_num": 356501.14,
       "value_kind": "euro",
-      "title": "FUNDACIO CASA DE LA MUSICA DE L'HOS",
-      "note": "CATALUÑA · 2026-10-30 · concedido ≠ pagado",
-      "href": "/subvenciones/158847335",
+      "title": "P0812400J AJ. MONTCADA I REIXAC",
+      "note": "DIPUTACIÓN PROV. DE BARCELONA · 2026-10-30 · concedido ≠ pagado",
+      "href": "/subvenciones/158868295",
       "data_kind": "official"
     },
     {
@@ -52,6 +52,102 @@
   ],
   "top_grants": [
     {
+      "id": 158868295,
+      "fecha": "2026-10-30",
+      "importe": 356501.14,
+      "beneficiario": "P0812400J AJ. MONTCADA I REIXAC",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868300,
+      "fecha": "2026-10-30",
+      "importe": 350000,
+      "beneficiario": "CTR. INTERNACIONAL DE MUSICA ANTIGA",
+      "nif": "G61434015",
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868291,
+      "fecha": "2026-10-30",
+      "importe": 304622.98,
+      "beneficiario": "R0800106G ORDEN SAN BENITO ABADIA DE MONTSERR",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868293,
+      "fecha": "2026-10-30",
+      "importe": 199433.49,
+      "beneficiario": "P0815200A AJ. ORRIUS",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868287,
+      "fecha": "2026-10-30",
+      "importe": 181093.21,
+      "beneficiario": "P0808800G AJ. GAVA",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868299,
+      "fecha": "2026-10-30",
+      "importe": 150000,
+      "beneficiario": "P0812100F AJ. MEDIONA",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868296,
+      "fecha": "2026-10-30",
+      "importe": 150000,
+      "beneficiario": "P0809700H AJ. SANT SALVADOR DE GUARDIOLA",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868298,
+      "fecha": "2026-10-30",
+      "importe": 100000,
+      "beneficiario": "P0818200H AJ. RODA DE TER",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
       "id": 158847335,
       "fecha": "2026-10-30",
       "importe": 90000,
@@ -61,7 +157,19 @@
       "territorio": "CATALUÑA",
       "organo": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
       "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868301,
+      "fecha": "2026-10-30",
+      "importe": 49967.82,
+      "beneficiario": "P0824900E AJ. STA. FE DEL PENEDES",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
     },
     {
       "id": 158825887,
@@ -73,7 +181,19 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
       "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868297,
+      "fecha": "2026-10-30",
+      "importe": 41512.61,
+      "beneficiario": "P0815200A AJ. ORRIUS",
+      "nif": null,
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
     },
     {
       "id": 158825913,
@@ -85,7 +205,19 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DESARROLLO RURAL",
       "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
+      "window": "2026-10-30 → 2026-11-02"
+    },
+    {
+      "id": 158868292,
+      "fecha": "2026-10-30",
+      "importe": 30000,
+      "beneficiario": "CREA DANCE FOUNDATION",
+      "nif": "G67254391",
+      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NO NOMINATIVAS",
+      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
+      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "data_kind": "official",
+      "window": "2026-10-30 → 2026-11-02"
     },
     {
       "id": 158867261,
@@ -97,139 +229,7 @@
       "territorio": "VIGO",
       "organo": "AYUNTAMIENTO DE VIGO",
       "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825900,
-      "fecha": "2026-10-30",
-      "importe": 15000,
-      "beneficiario": "R0200046A CARITAS DIOCESANA DE ALBACETE",
-      "nif": null,
-      "convocatoria": "Resolución de 29/10/2026, de la Vicepresidencia Primera, por la que se publica la ampliación del crédito presupuestario previsto en la Resolución de 06/03/2026, por la que se publican los créditos que han de financiar las ayudas que se concedan en el ejer",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "SECRETARÍA GENERAL DE LA PRESIDENCIA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825946,
-      "fecha": "2026-10-30",
-      "importe": 11779.35,
-      "beneficiario": "TRANSPORTE SANITARIO DE NAVARRA BIDEAN, S.L.",
-      "nif": "B71484810",
-      "convocatoria": " Subvención para dotar a los equipos de traslado sanitario (Bidean) 15 Sillas orugas  manuales",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "SERVICIO NAVARRO DE SALUD - OSASUNBIDEA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825897,
-      "fecha": "2026-10-30",
-      "importe": 10000,
-      "beneficiario": "P0200500G AYTO. ALBOREA",
-      "nif": null,
-      "convocatoria": "Resolución de 29/10/2026, de la Vicepresidencia Primera, por la que se publica la ampliación del crédito presupuestario previsto en la Resolución de 06/03/2026, por la que se publican los créditos que han de financiar las ayudas que se concedan en el ejer",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "SECRETARÍA GENERAL DE LA PRESIDENCIA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825945,
-      "fecha": "2026-10-30",
-      "importe": 7865,
-      "beneficiario": "TRANSPORTE SANITARIO DE NAVARRA BIDEAN, S.L.",
-      "nif": "B71484810",
-      "convocatoria": "Subvención para dotar a los equipos de traslado  sanitario (Bidean) 5 Sillas orugas  eléctricas",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "SERVICIO NAVARRO DE SALUD - OSASUNBIDEA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825889,
-      "fecha": "2026-10-30",
-      "importe": 7000,
-      "beneficiario": "BEATRIZ GARCIA-ARANDA DOMINGUEZ",
-      "nif": null,
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025 - no AdE",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825888,
-      "fecha": "2026-10-30",
-      "importe": 7000,
-      "beneficiario": "JUAN FRANCISCO GUERRERO MARTIN",
-      "nif": null,
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025 - no AdE",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825898,
-      "fecha": "2026-10-30",
-      "importe": 6000,
-      "beneficiario": "ASOC. NACIONAL AMIAB DE ATENC. INTE",
-      "nif": "G02142602",
-      "convocatoria": "Resolución de 29/10/2026, de la Vicepresidencia Primera, por la que se publica la ampliación del crédito presupuestario previsto en la Resolución de 06/03/2026, por la que se publican los créditos que han de financiar las ayudas que se concedan en el ejer",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "SECRETARÍA GENERAL DE LA PRESIDENCIA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825864,
-      "fecha": "2026-10-30",
-      "importe": 5800,
-      "beneficiario": "WINKING BUS SL",
-      "nif": "B19914217",
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025  RGEC 651/2014",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825866,
-      "fecha": "2026-10-30",
-      "importe": 4400,
-      "beneficiario": "MOBY TEC COMMERCE SL",
-      "nif": "B88281530",
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025  RGEC 651/2014",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825847,
-      "fecha": "2026-10-30",
-      "importe": 4000,
-      "beneficiario": "SOUKAINA SELLOUM LAMHAILIK",
-      "nif": null,
-      "convocatoria": "Resolución de 09/04/2025, de la D.G. de Vivienda, por la que se convocan año 2025, ayudas adquisición vivienda en propiedad por jóvenes contribuir al reto demográfico de CLM, marco Plan Estatal Vivienda 22-25",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE VIVIENDA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
-    },
-    {
-      "id": 158825865,
-      "fecha": "2026-10-30",
-      "importe": 3600,
-      "beneficiario": "AZUCOURIER S.L.",
-      "nif": "B75128272",
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025  RGEC 651/2014",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
-      "data_kind": "official",
-      "window": "2026-10-29 → 2026-11-01"
+      "window": "2026-10-30 → 2026-11-02"
     }
   ],
   "top_contracts": [
@@ -247,6 +247,14 @@
       "organo": "Consejería de Educación, Ciencia y Universidades",
       "importe": 7028470.15,
       "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/evaluacion-programa-bilingue-espanol-ingles-comunidad-madrid-aplicacion-2",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "2026OZER0024",
+      "title": "Gestión y otros servicios del Polideportivo de Galtzaraborda y piscinas de Fandería y Beraun.",
+      "organo": "Ayuntamiento de Errenteria-Pleno",
+      "importe": 5425858.06,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753644/es_doc/index.html",
       "data_kind": "official_sample"
     },
     {
@@ -274,6 +282,14 @@
       "data_kind": "official_sample"
     },
     {
+      "folder": "6145",
+      "title": "Servicios de conectividad (MPLS), acceso a Internet, líneas de navegación abiertas, servicios DNS, protección frente a ataques de denegación de servicio (AntiDDoS en capas 3/4 del modelo OSI)",
+      "organo": "LANTIK-Director-Gerente",
+      "importe": 1980000.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3438930/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
       "folder": "HM-2026-338",
       "title": "Servei de manteniment integral dels sistemes d’automatització de la Farmàcia Hospitalària de l’Hospital del Mar, centre del Consorci Mar Parc de Salut de Barcelona, segons característiques i condicions definides al Plec de prescripcions tècniques de la licitació.\n\nAquest contracte inclou igualment el manteniment dels equips addicionals que SMARTHEALTH LOGISTICS, S.L. posa a disposició de l’Hospital del Mar mitjançant un conveni de col·laboració que inclou la donació d’aquests equips, indicant que el CMPSB s’ha de fer càrrec del seu manteniment. Els equips que formen part de la donació són necessaris i imprescindibles per completar la funcionalitat prevista de la plataforma automatitzada de gestió farmacèutica de forma global a tot l’Hospital del Mar.",
       "organo": "Consorci Mar Parc de Salut de Barcelona",
@@ -282,11 +298,27 @@
       "data_kind": "official_sample"
     },
     {
-      "folder": "CONTR 2026 0000258043",
-      "title": "mixto de suministro y mantenimiento mobiliario urbano en ámbito consorcio",
-      "organo": "Consorcio de Transporte Metropolitano del Área de Sevilla",
-      "importe": 1036500.0,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1013622",
+      "folder": "CS/2000/1100008142/27/PO",
+      "title": "La contratación del suministro de equipamiento de electromedicina, equipos de refrigeración y criogenia necesarios para el desarrollo de la actividad asistencial y de investigación del Banco de Sangre y Tejidos responde a la necesidad de adquirir diversos equipos tecnológicos que garanticen el correcto funcionamiento de los procesos analíticos, diagnósticos y de soporte del BST.",
+      "organo": "Banc de Sang i Teixits (BST)",
+      "importe": 1067556.56,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/1a039ee5-51f2-460e-af7d-7e9a425b3a42/300925290",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "8203/2025",
+      "title": "Contratación del servicio de limpieza de los edificios públicos generales y de los edificios deportivos del Ayuntamiento de Amorebieta-Etxano",
+      "organo": "Ayuntamiento de Amorebieta-Etxano-Pleno de la Corporación",
+      "importe": 1042268.98,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753278/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "41/2026-08186",
+      "title": "Servicio de recepción, atención, animación, dinamización y cesión de espacios de los equipamientos públicos culturales de Santurtzi: Biblioteca Central, Biblioteca Infantil de Kabiezes, Mamariga Kulturgunea, Kabia y Gaztegunea.- integrado por tres lotes",
+      "organo": "Ayuntamiento de Santurtzi-Concejalía Delegada de Urbanismo, Medio Ambiente, Promoción Económica, Turismo y Empleo",
+      "importe": 950000.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso754984/es_doc/index.html",
       "data_kind": "official_sample"
     },
     {
@@ -314,43 +346,11 @@
       "data_kind": "official_sample"
     },
     {
-      "folder": "4-SV-15/2020-RP2",
-      "title": "Proyecto revisado y actualizado de construcción de rotonda en el ramal N-I-445-2 en Sorabilla (Andoain) (4-SV-15/2020-RP2)",
-      "organo": "Diputación Foral de Gipuzkoa-Consejo de Gobierno Foral",
-      "importe": 639060.68,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso742778/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "EXPT25-00015",
-      "title": "servicio de desarrollo para sistemas naos, portal ceis y canal de denuncias basado en el acuerdo marco de desarrollo de sw ac23-00001",
-      "organo": "Sociedad Andaluza para el Desarrollo de las Telecomunicaciones, S.A. (SANDETEL)",
-      "importe": 634555.07,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=801825",
-      "data_kind": "official_sample"
-    },
-    {
       "folder": "PA SUM 20/2026 (A/SUM-024255/2026)",
       "title": "Suministro para la automatización del almacenamiento y preparación de medicamentos en sistemas personalizados de dosificación",
       "organo": "Agencia de Contratación Sanitaria de la Comunidad de Madrid",
       "importe": 612000.0,
       "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-automatizacion-almacenamiento-preparacion-medicamentos-sistemas",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "B052-2026-00014",
-      "title": "Servicio de gestión integral de instalaciones deportivas de Larrabetzu",
-      "organo": "Ayuntamiento de Larrabetzu-Pleno",
-      "importe": 570153.9,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3677270/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "Hospital Universitario La Paz",
-      "title": "P.A. 3/2026 A.M. Servicio de realización de pruebas PET TAC en centros externos para el Servicio de medicina nuclear del Hospital Universitario La Paz",
-      "organo": "Hospital Universitario La Paz",
-      "importe": 532156.0,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/pa-32026-am-servicio-realizacion-pruebas-pet-tac-centros-externos-servicio",
       "data_kind": "official_sample"
     }
   ],
