@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:14:21.862104Z",
+  "generated_at": "2026-11-03T12:40:47.717000Z",
   "generated_by": "github-actions",
   "architecture": {
     "homepage": "cached_highlights_on_github",
@@ -7,13 +7,13 @@
     "hosting_note": "PC apagado OK: Pages + Worker + caché en GitHub."
   },
   "bdns_totals": {
-    "convocatorias_total": 661875,
-    "concesiones_total": 31243764,
+    "convocatorias_total": 662005,
+    "concesiones_total": 31334912,
     "provenance": "BDNS API totalElements",
     "data_kind": "official"
   },
   "placsp_meta": {
-    "feed_updated": "2026-11-02T03:00:43.808+01:00",
+    "feed_updated": "2026-11-03T03:01:05.571+01:00",
     "entries_sampled": 80,
     "provenance": "PLACSP Atom sindicacion_1044",
     "data_kind": "official_sample"
@@ -22,7 +22,7 @@
     {
       "id": "bdns-universe",
       "eyebrow": "Universo BDNS · oficial",
-      "value_num": 31243764,
+      "value_num": 31334912,
       "value_kind": "number",
       "title": "concesiones de ayudas registradas",
       "note": "Metadato oficial totalElements",
@@ -32,325 +32,325 @@
     {
       "id": "top-grant-window",
       "eyebrow": "Ayuda más alta · últimos días",
-      "value_num": 356501.14,
+      "value_num": 203886,
       "value_kind": "euro",
-      "title": "P0812400J AJ. MONTCADA I REIXAC",
-      "note": "DIPUTACIÓN PROV. DE BARCELONA · 2026-10-30 · concedido ≠ pagado",
-      "href": "/subvenciones/158868295",
+      "title": "Q3018001B UNIVERSIDAD DE MURCIA",
+      "note": "REGIÓN DE MURCIA · 2026-11-02 · concedido ≠ pagado",
+      "href": "/subvenciones/159005184",
       "data_kind": "official"
     },
     {
       "id": "top-contract-feed",
       "eyebrow": "Contrato top · feed PLACSP",
-      "value_num": 11586508.56,
+      "value_num": 38320337.58,
       "value_kind": "euro",
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "note": "Gestión del centro de atención a personas mayores en situación de dependencia (residencia y centro de atención diurna) y",
+      "title": "ICS - Gerència de compres",
+      "note": "CS/CC00/1101482667/27/AM: acuerdo marco para el suministro agregado de medicamentos genéricos 2027 para centros del Inst",
       "href": "/contratos",
       "data_kind": "official_sample"
     }
   ],
   "top_grants": [
     {
-      "id": 158868295,
-      "fecha": "2026-10-30",
-      "importe": 356501.14,
-      "beneficiario": "P0812400J AJ. MONTCADA I REIXAC",
+      "id": 159005184,
+      "fecha": "2026-11-02",
+      "importe": 203886,
+      "beneficiario": "Q3018001B UNIVERSIDAD DE MURCIA",
       "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "convocatoria": "SUBVENCIÓN DE CONCESIÓN DIRECTA A LAS UNIVERSIDADES PÚBLICAS DE LA REGIÓN DE MURCIA PARA COLABORAR EN LA FINANCIACIÓN DE LA COORDINACIÓN DEL SISTEMA UNIVERSITARIO EN EL EJERCICIO 2026",
+      "territorio": "REGIÓN DE MURCIA",
+      "organo": "CONSEJERÍA DE MEDIO AMBIENTE, INDUSTRIA, UNIVERSIDADES, INVESTIGACIÓN Y MAR MENOR",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158868300,
-      "fecha": "2026-10-30",
-      "importe": 350000,
-      "beneficiario": "CTR. INTERNACIONAL DE MUSICA ANTIGA",
-      "nif": "G61434015",
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
-      "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
-    },
-    {
-      "id": 158868291,
-      "fecha": "2026-10-30",
-      "importe": 304622.98,
-      "beneficiario": "R0800106G ORDEN SAN BENITO ABADIA DE MONTSERR",
+      "id": 159010754,
+      "fecha": "2026-11-02",
+      "importe": 200000,
+      "beneficiario": "S2816003D DIREC GENERAL DE LA GUARDIA CIVIL MADRID",
       "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "convocatoria": "Convenio obras, reparaciones, eficienca energética Guardia Civil",
+      "territorio": "LA RIOJA",
+      "organo": "CONSEJERÍA DE SALUD Y POLÍTICAS SOCIALES",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158868293,
-      "fecha": "2026-10-30",
-      "importe": 199433.49,
-      "beneficiario": "P0815200A AJ. ORRIUS",
+      "id": 158997039,
+      "fecha": "2026-11-02",
+      "importe": 200000,
+      "beneficiario": "P1500200I CONCELLO DE AMES",
       "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "convocatoria": "CONVENIO DE COLABORACIÓN ENTRE LA CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN, LA DIPUTACIÓN PROVINCIAL DE A CORUÑA Y EL AYUNTAMIENTO DE AMES PARA LA CONSTRUCCIÓN DEL MERCADO MUNICIPAL DE BERTAMIRÁNS ",
+      "territorio": "GALICIA",
+      "organo": "CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158868287,
-      "fecha": "2026-10-30",
-      "importe": 181093.21,
-      "beneficiario": "P0808800G AJ. GAVA",
+      "id": 159010618,
+      "fecha": "2026-11-02",
+      "importe": 99492.49,
+      "beneficiario": "PROTEC SOLANA, SL",
+      "nif": "B26321216",
+      "convocatoria": "(IDI) Proyectos de I+D+i orientados al mercado (Reg.651/2014)",
+      "territorio": "LA RIOJA",
+      "organo": "AGENCIA DE DESARROLLO ECONÓMICO DE LA RIOJA",
+      "data_kind": "official",
+      "window": "2026-10-31 → 2026-11-03"
+    },
+    {
+      "id": 159005507,
+      "fecha": "2026-11-02",
+      "importe": 46114,
+      "beneficiario": "Q8050013E UNIVERSIDAD POLITECNICA DE CARTAGENA",
       "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "convocatoria": "SUBVENCIÓN DE CONCESIÓN DIRECTA A LAS UNIVERSIDADES PÚBLICAS DE LA REGIÓN DE MURCIA PARA COLABORAR EN LA FINANCIACIÓN DE LA COORDINACIÓN DEL SISTEMA UNIVERSITARIO EN EL EJERCICIO 2026",
+      "territorio": "REGIÓN DE MURCIA",
+      "organo": "CONSEJERÍA DE MEDIO AMBIENTE, INDUSTRIA, UNIVERSIDADES, INVESTIGACIÓN Y MAR MENOR",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158868299,
-      "fecha": "2026-10-30",
-      "importe": 150000,
-      "beneficiario": "P0812100F AJ. MEDIONA",
+      "id": 159010593,
+      "fecha": "2026-11-02",
+      "importe": 29106,
+      "beneficiario": "CALZADOS ROBUSTA, SL",
+      "nif": "B26291260",
+      "convocatoria": "(PEC) Programa Estrategico de Comercio Exterior (Reg. Minimis 2023/2831)",
+      "territorio": "LA RIOJA",
+      "organo": "AGENCIA DE DESARROLLO ECONÓMICO DE LA RIOJA",
+      "data_kind": "official",
+      "window": "2026-10-31 → 2026-11-03"
+    },
+    {
+      "id": 159010607,
+      "fecha": "2026-11-02",
+      "importe": 22791.07,
+      "beneficiario": "TECNICAS EXPANSIVAS, S.L.",
+      "nif": "B26220491",
+      "convocatoria": "(PEC) Programa Estrategico de Comercio Exterior (Reg. Minimis 2023/2831)",
+      "territorio": "LA RIOJA",
+      "organo": "AGENCIA DE DESARROLLO ECONÓMICO DE LA RIOJA",
+      "data_kind": "official",
+      "window": "2026-10-31 → 2026-11-03"
+    },
+    {
+      "id": 159010955,
+      "fecha": "2026-11-02",
+      "importe": 21700,
+      "beneficiario": "****7136* HANANE ESSOUBAI",
       "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "convocatoria": "FOMENTO DEL DERECHO DE EXCEDENCIA PARA CUIDADO HIJOS Y SUSTITUCIÓN TRABAJADORES",
+      "territorio": "LA RIOJA",
+      "organo": "CONSEJERÍA DE EDUCACIÓN, FORMACIÓN Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158868296,
-      "fecha": "2026-10-30",
-      "importe": 150000,
-      "beneficiario": "P0809700H AJ. SANT SALVADOR DE GUARDIOLA",
+      "id": 159004746,
+      "fecha": "2026-11-02",
+      "importe": 13800,
+      "beneficiario": "PM4GOV SL",
+      "nif": "B67754432",
+      "convocatoria": "Orden de 29 de diciembre de 2025 por la que se establecen las bases reguladoras del Programa Galicia Suma Talento: Empléate de incentivos a la contratación en la empresa ordinaria, y se procede a su convocatoria para el año 2026",
+      "territorio": "GALICIA",
+      "organo": "CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN",
+      "data_kind": "official",
+      "window": "2026-10-31 → 2026-11-03"
+    },
+    {
+      "id": 159004752,
+      "fecha": "2026-11-02",
+      "importe": 12000,
+      "beneficiario": "VENTO ABOGADOS Y ASESORES SLP",
+      "nif": "B70508932",
+      "convocatoria": "Orden de 29 de diciembre de 2025 por la que se establecen las bases reguladoras del Programa Galicia Suma Talento: Empléate de incentivos a la contratación en la empresa ordinaria, y se procede a su convocatoria para el año 2026",
+      "territorio": "GALICIA",
+      "organo": "CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN",
+      "data_kind": "official",
+      "window": "2026-10-31 → 2026-11-03"
+    },
+    {
+      "id": 159004748,
+      "fecha": "2026-11-02",
+      "importe": 7800,
+      "beneficiario": "LORENA GESTO BLANCO",
       "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "convocatoria": "Orden de 29 de diciembre de 2025 por la que se establecen las bases reguladoras del Programa Galicia Suma Talento: Empléate de incentivos a la contratación en la empresa ordinaria, y se procede a su convocatoria para el año 2026",
+      "territorio": "GALICIA",
+      "organo": "CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158868298,
-      "fecha": "2026-10-30",
-      "importe": 100000,
-      "beneficiario": "P0818200H AJ. RODA DE TER",
-      "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "id": 158989962,
+      "fecha": "2026-11-02",
+      "importe": 7326,
+      "beneficiario": "KOALA SOLUCIONES EDUCATIVAS SA",
+      "nif": "A87045423",
+      "convocatoria": "CONV. SUBV. FOMENTO CONTRATACIÓN LABORAL ORDINARIA POR CUENTA AJENA",
+      "territorio": "LA RIOJA",
+      "organo": "CONSEJERÍA DE EDUCACIÓN Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158847335,
-      "fecha": "2026-10-30",
-      "importe": 90000,
-      "beneficiario": "FUNDACIO CASA DE LA MUSICA DE L'HOS",
-      "nif": "G67013805",
-      "convocatoria": "Subvención nominativa a Casa de la Música de L'Hospitalet de Llobregat",
-      "territorio": "CATALUÑA",
-      "organo": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
+      "id": 159004750,
+      "fecha": "2026-11-02",
+      "importe": 6900,
+      "beneficiario": "A GALERIA CARPINTERIA DE ALUMINIO SL",
+      "nif": "B70352984",
+      "convocatoria": "Orden de 29 de diciembre de 2025 por la que se establecen las bases reguladoras del Programa Galicia Suma Talento: Empléate de incentivos a la contratación en la empresa ordinaria, y se procede a su convocatoria para el año 2026",
+      "territorio": "GALICIA",
+      "organo": "CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158868301,
-      "fecha": "2026-10-30",
-      "importe": 49967.82,
-      "beneficiario": "P0824900E AJ. STA. FE DEL PENEDES",
-      "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NOMINATIVAS",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
+      "id": 159004749,
+      "fecha": "2026-11-02",
+      "importe": 6900,
+      "beneficiario": "CAPACITACION DE SERVICIOS FORESTALES SL",
+      "nif": "B70595376",
+      "convocatoria": "Orden de 29 de diciembre de 2025 por la que se establecen las bases reguladoras del Programa Galicia Suma Talento: Empléate de incentivos a la contratación en la empresa ordinaria, y se procede a su convocatoria para el año 2026",
+      "territorio": "GALICIA",
+      "organo": "CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     },
     {
-      "id": 158825887,
-      "fecha": "2026-10-30",
-      "importe": 45000,
-      "beneficiario": "P1600000B DIPUTACION PROVINCIAL DE CUENCA",
-      "nif": null,
-      "convocatoria": "Resolución de la Consejería de Desarrollo Sostenible, por la que se aprueba la convocatoria del programa de incentivoss ligados a mov eléctrica (MOVES III) 2025 - no AdE",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE TRANSICIÓN ENERGÉTICA",
+      "id": 159004745,
+      "fecha": "2026-11-02",
+      "importe": 6900,
+      "beneficiario": "PM4GOV SL",
+      "nif": "B67754432",
+      "convocatoria": "Orden de 29 de diciembre de 2025 por la que se establecen las bases reguladoras del Programa Galicia Suma Talento: Empléate de incentivos a la contratación en la empresa ordinaria, y se procede a su convocatoria para el año 2026",
+      "territorio": "GALICIA",
+      "organo": "CONSELLERÍA DE EMPLEO, COMERCIO Y EMIGRACIÓN",
       "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
-    },
-    {
-      "id": 158868297,
-      "fecha": "2026-10-30",
-      "importe": 41512.61,
-      "beneficiario": "P0815200A AJ. ORRIUS",
-      "nif": null,
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. ACCIÓN DE COOPERACIÓN LOCAL",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
-      "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
-    },
-    {
-      "id": 158825913,
-      "fecha": "2026-10-30",
-      "importe": 37948.04,
-      "beneficiario": "FERNANDEZ RUSTI ETC",
-      "nif": "E25873175",
-      "convocatoria": "Resolución de 17/12/2024, de la Dirección General de Desarrollo Rural, por la que se convocan, para el año 2025, por el procedim",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DESARROLLO RURAL",
-      "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
-    },
-    {
-      "id": 158868292,
-      "fecha": "2026-10-30",
-      "importe": 30000,
-      "beneficiario": "CREA DANCE FOUNDATION",
-      "nif": "G67254391",
-      "convocatoria": "CONVOCATORIA INSTRUMENTAL 2026. CONCESIONES DIRECTAS DE SUBVENCIONES NO NOMINATIVAS",
-      "territorio": "DIPUTACIÓN PROV. DE BARCELONA",
-      "organo": "DIPUTACIÓN PROVINCIAL DE BARCELONA",
-      "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
-    },
-    {
-      "id": 158867261,
-      "fecha": "2026-10-31",
-      "importe": 25000,
-      "beneficiario": "GALIEXPO FERIAS Y EVENTOS",
-      "nif": "B36945137",
-      "convocatoria": "CONVOCATORIA PÚBLICA Y BASES ESPECÍFICAS REGULADORAS  DE LA CONVOCATORIA DE SUBVENCIONES PARA LA ORGANIZACIÓN DE EVENTOS Y CONGRESOS RELACIONADOS CON EL TURISMO MICE, DE INTERÉS TURÍSTICA AÑO 2026",
-      "territorio": "VIGO",
-      "organo": "AYUNTAMIENTO DE VIGO",
-      "data_kind": "official",
-      "window": "2026-10-30 → 2026-11-02"
+      "window": "2026-10-31 → 2026-11-03"
     }
   ],
   "top_contracts": [
     {
-      "folder": "A/SER-036507/2026",
-      "title": "Gestión del centro de atención a personas mayores en situación de dependencia (residencia y centro de atención diurna) y pisos tutelados de Usera.",
-      "organo": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "importe": 11586508.56,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/gestion-centro-atencion-personas-mayores-situacion-dependencia-residencia-centro-3",
+      "folder": "ICSCC00-2027-10",
+      "title": "CS/CC00/1101482667/27/AM: acuerdo marco para el suministro agregado de medicamentos genéricos 2027 para centros del Instituto Catalán de la Salud y centros adheridos: Consorcio Mar Parque de Salud de Barcelona, ​​Gestión de Servicios Sanitarios, Instituto de Asistencia Sanitaria, Fundació Sant Hospital de la Seu d'Urgell y Parc Sanitari Pere Virgili",
+      "organo": "ICS - Gerència de compres",
+      "importe": 38320337.58,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/aa370f10-e6a2-42af-aca4-25cab8e998f1/300926495",
       "data_kind": "official_sample"
     },
     {
-      "folder": "A/SER-027052/2026",
-      "title": "Evaluación del programa bilingüe español-inglés de la Comunidad de Madrid, y aplicación, calificación y certificación de las pruebas de nivel lingüístico en inglés, de os alumnos de centros educativos públicos bilingües y privados concertados bilingües, durante el curso 2026-2027. Dividido en dos lotes",
-      "organo": "Consejería de Educación, Ciencia y Universidades",
-      "importe": 7028470.15,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/evaluacion-programa-bilingue-espanol-ingles-comunidad-madrid-aplicacion-2",
+      "folder": "MNAC-2026-118",
+      "title": "Servicios de atención al público, experiencia de visita y servicios educativos del Museo Nacional de Arte de Cataluña, con medidas de contratación pública social y ambiental",
+      "organo": "Consorci Museu Nacional d'Art de Catalunya",
+      "importe": 5998619.19,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/5ce001a9-7222-4a47-a771-5b584e6a61f6/300925476",
       "data_kind": "official_sample"
     },
     {
-      "folder": "2026OZER0024",
-      "title": "Gestión y otros servicios del Polideportivo de Galtzaraborda y piscinas de Fandería y Beraun.",
-      "organo": "Ayuntamiento de Errenteria-Pleno",
-      "importe": 5425858.06,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753644/es_doc/index.html",
+      "folder": "002_25000143",
+      "title": "AM Gerència d'Àrea de Drets Socials, Salut, Cooperació i Comunitat i Gerència Àrea de Cultura, Educació, Esports i Cicles de Vida de l'ajuntament de Barcelona, amb mesures de contractació pública sostenible",
+      "organo": "Institut Municipal Barcelona Innovació i Tecnologia",
+      "importe": 4747318.2,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/8ee27302-8e1d-44bb-8b89-bc3174e6c04d/300926506",
       "data_kind": "official_sample"
     },
     {
-      "folder": "P.A. 2023-0-6 (AM)",
-      "title": "P.A. 2023-0-6 (AM). Suministro de material fungible para sistemas de administración subcutánea de insulina con y sin monitorización integrada para el Hospital Universitario La Paz.",
-      "organo": "Hospital Universitario La Paz",
-      "importe": 2709660.24,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/pa-2023-0-6-am-suministro-material-fungible-sistemas-administracion-subcutanea",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "2026/01220",
-      "title": "Renovación del alumbrado por tecnología LED en centros de salud de las OSIs Uribe, BarrualdeGaldakao y Donostialdea (Fase II EXP 3)",
-      "organo": "OSAKIDETZA - Servicio Vasco de Salud -Director General",
-      "importe": 2391052.43,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/exposakisap2026001220/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "ICFO-2026-050",
-      "title": "ICFO-2026-050 Subministrament, instal·lació i posada en funcionament d’un Wafer Bonding Line per a l’ICFO, finançat pel programa FEDER Catalunya 2021‐2027.",
-      "organo": "ICFO - Institut de Ciències Fotòniques",
-      "importe": 2185000.0,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/5a64ab14-19bb-411c-9e3c-e41686def126/300925203",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "6145",
-      "title": "Servicios de conectividad (MPLS), acceso a Internet, líneas de navegación abiertas, servicios DNS, protección frente a ataques de denegación de servicio (AntiDDoS en capas 3/4 del modelo OSI)",
-      "organo": "LANTIK-Director-Gerente",
-      "importe": 1980000.0,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3438930/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "HM-2026-338",
-      "title": "Servei de manteniment integral dels sistemes d’automatització de la Farmàcia Hospitalària de l’Hospital del Mar, centre del Consorci Mar Parc de Salut de Barcelona, segons característiques i condicions definides al Plec de prescripcions tècniques de la licitació.\n\nAquest contracte inclou igualment el manteniment dels equips addicionals que SMARTHEALTH LOGISTICS, S.L. posa a disposició de l’Hospital del Mar mitjançant un conveni de col·laboració que inclou la donació d’aquests equips, indicant que el CMPSB s’ha de fer càrrec del seu manteniment. Els equips que formen part de la donació són necessaris i imprescindibles per completar la funcionalitat prevista de la plataforma automatitzada de gestió farmacèutica de forma global a tot l’Hospital del Mar.",
-      "organo": "Consorci Mar Parc de Salut de Barcelona",
-      "importe": 1609742.4,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/01548e6c-1d59-4d6b-99ec-fbe767f717c3/300925185",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "CS/2000/1100008142/27/PO",
-      "title": "La contratación del suministro de equipamiento de electromedicina, equipos de refrigeración y criogenia necesarios para el desarrollo de la actividad asistencial y de investigación del Banco de Sangre y Tejidos responde a la necesidad de adquirir diversos equipos tecnológicos que garanticen el correcto funcionamiento de los procesos analíticos, diagnósticos y de soporte del BST.",
-      "organo": "Banc de Sang i Teixits (BST)",
-      "importe": 1067556.56,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/1a039ee5-51f2-460e-af7d-7e9a425b3a42/300925290",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "8203/2025",
-      "title": "Contratación del servicio de limpieza de los edificios públicos generales y de los edificios deportivos del Ayuntamiento de Amorebieta-Etxano",
-      "organo": "Ayuntamiento de Amorebieta-Etxano-Pleno de la Corporación",
-      "importe": 1042268.98,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso753278/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "41/2026-08186",
-      "title": "Servicio de recepción, atención, animación, dinamización y cesión de espacios de los equipamientos públicos culturales de Santurtzi: Biblioteca Central, Biblioteca Infantil de Kabiezes, Mamariga Kulturgunea, Kabia y Gaztegunea.- integrado por tres lotes",
-      "organo": "Ayuntamiento de Santurtzi-Concejalía Delegada de Urbanismo, Medio Ambiente, Promoción Económica, Turismo y Empleo",
-      "importe": 950000.0,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso754984/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "202601",
-      "title": "Acuerdo marco para el suministro de bolsas y fundas compostables, cubos y contenedores para la recogida selectiva puerta a puerta entre los miembros asociados y los miembros que puedan adherirse durante la vigencia del acuerdo marco",
-      "organo": "Associació de Municipis Catalans per a la Recollida Selectiva Porta a Porta",
-      "importe": 715247.92,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/2f96fae3-707e-4d3f-93e5-8cd58a4fa4f6/300925162",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "ICFO-2026-041",
-      "title": "ICFO-2026-041 Subministrament, instal·lació i posada en funcionament d’un “Plasma Enhanced Chemical Vapour Deposition system” per al Pilot Line PIXEurope de l’ICFO.",
-      "organo": "ICFO - Institut de Ciències Fotòniques",
-      "importe": 690000.0,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/74d8f454-7d73-499c-bf54-084927933f9c/300925226",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "3157_8/2026/JA_CONAD",
-      "title": "Contratación conjunta de proyecto y obra de la remodelación de la subestación de 66 kV y del Centro de Control de 6,3 kV en la ETAP de Canraso, en Tudela (Navarra)",
-      "organo": "JUNTA DE GOBIERNO JUNTA MUNICIPAL DE AGUAS DE TUDELA",
-      "importe": 650000.0,
-      "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2610301046438958C218",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "PA SUM 20/2026 (A/SUM-024255/2026)",
-      "title": "Suministro para la automatización del almacenamiento y preparación de medicamentos en sistemas personalizados de dosificación",
+      "folder": "AM PA SUM 37/2026 (A/SUM-030391/2026)",
+      "title": "AM PA SUM 37-2026. Acuerdo Marco para el suministro de productos sanitarios para la prevención y el tratamiento de lesiones cutáneas relacionadas con la dependencia y otras lesiones crónicas complejas para todos los centros sanitarios dependientes del Servicio Madrileño de Salud.",
       "organo": "Agencia de Contratación Sanitaria de la Comunidad de Madrid",
-      "importe": 612000.0,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-automatizacion-almacenamiento-preparacion-medicamentos-sistemas",
+      "importe": 3999062.5,
+      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/am-pa-sum-37-2026-acuerdo-marco-suministro-productos-sanitarios-prevencion",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "AM PA SER 27/2026 􀍴 A/SER-024389/2026",
+      "title": "AM PA SER 27/2026. Acuerdo Marco para la prestación del servicio de tratamiento de Protonterapia para los pacientes a los que la Consejería de Sanidad de la Comunidad de Madrid tenga el deber de prestar asistencia sanitaria.",
+      "organo": "Agencia de Contratación Sanitaria de la Comunidad de Madrid",
+      "importe": 2934500.0,
+      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/am-pa-ser-272026-acuerdo-marco-prestacion-servicio-tratamiento-protonterapia",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "2025/0026817",
+      "title": "Obres consistents en l’execució de les actuacions d’adaptació funcional d’habitatges en municipis de la província de Barcelona, dividit en tres lots",
+      "organo": "Diputació de Barcelona",
+      "importe": 1487603.31,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/0af29fcc-aa29-40ef-b313-515e11bb10bb/300924951",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "2026-0141-OOB",
+      "title": "L’objecte del contracte és l’execució de les obres del “Projecte de rehabilitació del dipòsit de Can Brians (E5-02). Punt Crític 16.11”.\nLes actuacions de rehabilitació a l’interior del dipòsit s’iniciaran amb l’extracció de la lona de PVC que recobreix el vas interior. Per fer-ho caldrà emprar mitjans mecànics com pales flexibles, martells elèctrics i desbastadores amb sistemes d’aspiració. L’extracció es completarà amb la neteja del vas aplicant raig d’aigua a pressió i, si és necessari, raig de sorra. Les juntes de la llosa existent que estiguin en mal estat després de l’extracció es sanejaran amb raig d’aigua a pressió i es segellaran amb el material aprovat pels tècnics d’ATL. Abans d’acabar la neteja de superfícies, caldrà demolir les mitges canyes de les interseccions entre elements verticals i horitzontals del dipòsit existent.",
+      "organo": "Ens d'Abastament d'Aigua Ter-Llobregat (ATL)",
+      "importe": 649281.33,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/d63142e3-c531-425d-b309-6f11c09749a3/300926317",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "2026-07",
+      "title": "Es objeto del presente contrato el servicio de retirada, transporte, gestión y eliminación de residuos biosanitarios, animales de experimentación, residuos químicos y otros residuos industriales generados en los edificios de la Fundació Parc Científic de Barcelona. El grupo de residuos biosanitarios incluye, también, los animales de experimentación y las cajas de polietileno expandido (Porexpán®)",
+      "organo": "Fundació Parc Científic de Barcelona",
+      "importe": 584557.92,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/9595506a-a13b-40c6-9065-af463ad7a209/300926543",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "16136288",
+      "title": "Suministro de 14 cruces monobloque para las líneas L9N y L9S destinados a la sustitución de cruces ensamblados",
+      "organo": "Ferrocarril Metropolità de Barcelona, SA",
+      "importe": 577000.04,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/81fc9b68-90e6-4719-bf68-198b07b819d1/300926231",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "4_2026",
+      "title": "Obres d’urbanització: Execució de les obres incloses en el projecte “Modificació del projecte d’urbanització del PAU de la MPPGM, a l’entorn de la plaça dels Estudis Vells de Sant Just Desvern; i obres d’urbanització: Execució de les obres incloses en el projecte “Urbanització de la plaça front Miquel Reverter, 24 (“Jocs Jovenívols”) de Sant Just Desvern.",
+      "organo": "Promocions Municipals Santjustenques, SA (PROMUNSA)",
+      "importe": 526507.59,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/6b8883c6-cd6c-4470-9608-047d8dd66e60/300926523",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "4314760009-2026-0000245",
+      "title": "L’objecte d’aquest contracte son les obres descrites en el projecte de les obres de reurbanització consistents en la renovació de la pavimentació i serveis del carrer Tallat.",
+      "organo": "Ajuntament de Solivella",
+      "importe": 516758.14,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/e27a1468-9ca8-47b0-9f21-513d15cf0b3e/300926272",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "1-ET-57/2026-AT",
+      "title": "Redacción de proyectos y otros estudios técnicos complementarios, así como la dirección de las obras correspondientes a la rehabilitación del salón de actos Andia de la Diputación Foral, sito en la calle Andia de Donostia (1-ET-57/2026-AT)",
+      "organo": "Diputación Foral de Gipuzkoa-Consejo de Gobierno Foral",
+      "importe": 401158.32,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso738056/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "PCTB2026009",
+      "title": "Contrato para la ejecución de las obras de ampliación fotovoltaica y almacenaje de energía en el campus de Zamudio-Derio.",
+      "organo": "Parque Científico y Tecnológico de Bizkaia, S.A.-Consejo de administración",
+      "importe": 381640.4,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso721320/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "1304/2026",
+      "title": "Constitueix l’objecte del contracte l’execució de les obres definides en el Projecte de remodelació de la plaça Onze de Setembre, aprovat definitivament en l’expedient 2497/2025. El projecte té per objecte la remodelació de la plaça Onze de Setembre, amb la finalitat de reordenar la circulació de vianants i vehicles, millorar l’accessibilitat de l’espai públic i renovar les xarxes de serveis existents.",
+      "organo": "Ajuntament de la Selva del Camp",
+      "importe": 355860.44,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/3b888701-9f5a-4f96-a4e4-a3931479f5db/300890532",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "ED-2027-25",
+      "title": "Obres de rehabilitació estructural del forjat sanitari amb millora de ventilació i instal·lació de calefacció que discorre per la cambra de l'Institut Canigó d'Almacelles (Codi de centre: 25006483. Codi ENS: 02259)",
+      "organo": "Departament d'Educació i Formació Professional",
+      "importe": 305085.5,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/11ba219f-214d-48a5-b9ec-ae76716d2e80/300924320",
       "data_kind": "official_sample"
     }
   ],
