@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:34:20.604044Z",
+  "generated_at": "2026-11-08T11:46:15.015599Z",
   "generated_by": "github-actions",
   "architecture": {
     "homepage": "cached_highlights_on_github",
@@ -7,13 +7,13 @@
     "hosting_note": "PC apagado OK: Pages + Worker + caché en GitHub."
   },
   "bdns_totals": {
-    "convocatorias_total": 663287,
-    "concesiones_total": 31756896,
+    "convocatorias_total": 663297,
+    "concesiones_total": 31809832,
     "provenance": "BDNS API totalElements",
     "data_kind": "official"
   },
   "placsp_meta": {
-    "feed_updated": "2026-11-07T03:00:37.568+01:00",
+    "feed_updated": "2026-11-08T03:00:30.362+01:00",
     "entries_sampled": 80,
     "provenance": "PLACSP Atom sindicacion_1044",
     "data_kind": "official_sample"
@@ -22,7 +22,7 @@
     {
       "id": "bdns-universe",
       "eyebrow": "Universo BDNS · oficial",
-      "value_num": 31756896,
+      "value_num": 31809832,
       "value_kind": "number",
       "title": "concesiones de ayudas registradas",
       "note": "Metadato oficial totalElements",
@@ -32,25 +32,37 @@
     {
       "id": "top-grant-window",
       "eyebrow": "Ayuda más alta · últimos días",
-      "value_num": 85206.2,
+      "value_num": 250000,
       "value_kind": "euro",
-      "title": "ASOCIACION EKOALDE ELKARTEA",
-      "note": "COMUNIDAD FORAL DE NAVARRA · 2026-11-06 · concedido ≠ pagado",
-      "href": "/subvenciones/159489904",
+      "title": "P9312501A PAT.MUS.COM.REUS F.P.M.M.A.D.",
+      "note": "CATALUÑA · 2026-11-06 · concedido ≠ pagado",
+      "href": "/subvenciones/159531659",
       "data_kind": "official"
     },
     {
       "id": "top-contract-feed",
       "eyebrow": "Contrato top · feed PLACSP",
-      "value_num": 2245400.98,
+      "value_num": 42273355.56,
       "value_kind": "euro",
-      "title": "Servicio Andaluz de Salud",
-      "note": "0000527/2026 suministro, instalación y puesta en servicio de equipamientos médicospara los centros adscritos a la centra",
+      "title": "Canal de Isabel II, S.A.",
+      "note": "Sistema dinámico de adquisición para los suministros de reactivos químicos",
       "href": "/contratos",
       "data_kind": "official_sample"
     }
   ],
   "top_grants": [
+    {
+      "id": 159531659,
+      "fecha": "2026-11-06",
+      "importe": 250000,
+      "beneficiario": "P9312501A PAT.MUS.COM.REUS F.P.M.M.A.D.",
+      "nif": null,
+      "convocatoria": "Subvención nominativa para la Fira Trapezi 2026",
+      "territorio": "CATALUÑA",
+      "organo": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
+      "data_kind": "official",
+      "window": "2026-11-05 → 2026-11-08"
+    },
     {
       "id": 159489904,
       "fecha": "2026-11-06",
@@ -61,7 +73,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159483773,
@@ -73,19 +85,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
-    },
-    {
-      "id": 159483717,
-      "fecha": "2026-11-06",
-      "importe": 40000,
-      "beneficiario": "P0200000H DIPUTACION PROV ALBACETE",
-      "nif": null,
-      "convocatoria": "Resolución de la Dirección General de Empleo, por la que se aprueba la convocatoria de subvenciones para la contratación en el marco del Programa Horizonte Empleo, para el ejercicio 2026, no min..",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE EMPLEO",
-      "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159489901,
@@ -97,7 +97,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159489902,
@@ -109,19 +109,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
-    },
-    {
-      "id": 159483712,
-      "fecha": "2026-11-06",
-      "importe": 28000,
-      "beneficiario": "P1913400F AYTO. ESPINOSA DE HENARES",
-      "nif": null,
-      "convocatoria": "Resolución de la Dirección General de Empleo, por la que se aprueba la convocatoria de subvenciones para la contratación en el marco del Programa Horizonte Empleo, para el ejercicio 2026, no min..",
-      "territorio": "CASTILLA-LA MANCHA",
-      "organo": "DIRECCIÓN GENERAL DE EMPLEO",
-      "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159489897,
@@ -133,7 +121,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159489906,
@@ -145,7 +133,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159483767,
@@ -157,7 +145,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159489907,
@@ -169,7 +157,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159489896,
@@ -181,7 +169,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159489905,
@@ -193,7 +181,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159483775,
@@ -205,7 +193,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159483720,
@@ -217,7 +205,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
     },
     {
       "id": 159483769,
@@ -229,10 +217,38 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-04 → 2026-11-07"
+      "window": "2026-11-05 → 2026-11-08"
+    },
+    {
+      "id": 159483757,
+      "fecha": "2026-11-06",
+      "importe": 19200,
+      "beneficiario": "P0201500F AYTO BARRAX",
+      "nif": null,
+      "convocatoria": "Resolución de la Dirección General de Empleo, por la que se aprueba la convocatoria de subvenciones para la contratación en el marco del Programa Horizonte Empleo, para el ejercicio 2026, no min..",
+      "territorio": "CASTILLA-LA MANCHA",
+      "organo": "DIRECCIÓN GENERAL DE EMPLEO",
+      "data_kind": "official",
+      "window": "2026-11-05 → 2026-11-08"
     }
   ],
   "top_contracts": [
+    {
+      "folder": "249/2022",
+      "title": "Sistema dinámico de adquisición para los suministros de reactivos químicos",
+      "organo": "Canal de Isabel II, S.A.",
+      "importe": 42273355.56,
+      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/sistema-dinamico-adquisicion-suministros-reactivos-quimicos",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "91-2025",
+      "title": "Sistema Dinámico de Adquisición de Suministros para laboratorio",
+      "organo": "Canal de Isabel II, S.A.",
+      "importe": 36559108.78,
+      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/sistema-dinamico-adquisicion-suministros-laboratorio",
+      "data_kind": "official_sample"
+    },
     {
       "folder": "CONTR 2026 0000249975",
       "title": "0000527/2026 suministro, instalación y puesta en servicio de equipamientos médicospara los centros adscritos a la central provincial de compras de cádiz perteneciente al servicio andaluz de salud, mediante procedimiento abierto y con presentación electrónica de ofertas sujeto a regulación armonizada.",
@@ -250,14 +266,6 @@
       "data_kind": "official_sample"
     },
     {
-      "folder": "13-1/24",
-      "title": "Servicio de Seguridad Privada para la Academia Vasca de Policía y Emergencias",
-      "organo": "Gobierno Vasco-Dirección de la Academia Vasca de Policía y Emergencias",
-      "importe": 1619834.7,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso499978/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
       "folder": "BE-2027-12",
       "title": "Servicio de limpieza y lavandería en los centros CRAE Maria Assumpta, CREI Els Castanyers, CRAE Osona, CRAE Coll de l'Alba, CRAE Llars Infantils Torre Vicens, CRAE Enric Llaberia y CA Girona, del Departamento de Derechos Sociales e Inclusión, reservado prioritariamente a CETIS y EI (BE-2027-12)",
       "organo": "Departament de Drets Socials i Inclusió",
@@ -266,11 +274,11 @@
       "data_kind": "official_sample"
     },
     {
-      "folder": "IFA2024/07",
-      "title": "Servicio de Limpieza General de los Centros Asistenciales Zumelegi, Lusa y Mundaka del IFAS, para los ejercicios 2025-2026.",
-      "organo": "Instituto Foral de Asistencia Social de Bizkaia-Gerente/a",
-      "importe": 1462280.2,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia2632339/es_doc/index.html",
+      "folder": "3184_GAP-03/2026",
+      "title": "Contrato de Servicios relativo al mantenimiento de los edificios, instalaciones y equipamiento general de los centros dependientes de Atención Primaria del Servicio Navarro de Salud – Osasunbidea (“Inmuebles”) años 2027 y 2028.",
+      "organo": "Director Gerente del Servicio Navarro de Salud-Osasunbidea",
+      "importe": 1500643.91,
+      "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=2610090917468F50934F",
       "data_kind": "official_sample"
     },
     {
@@ -322,11 +330,11 @@
       "data_kind": "official_sample"
     },
     {
-      "folder": "P20026497",
-      "title": "Servicio para la redacción del Proyecto constructivo de la integración del ferrocarril en el ámbito de Galtzaraborda",
-      "organo": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
-      "importe": 500000.0,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso596798/es_doc/index.html",
+      "folder": "CSI-2027-22",
+      "title": "Servei de suport a les operacions i administració dels sistemes i BaaS/DRaaS del Consorci Sanitari Integral",
+      "organo": "Consorci Sanitari Integral",
+      "importe": 512762.25,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/ce44de91-bf8e-4e83-9b70-88fc09f47bb6/300926044",
       "data_kind": "official_sample"
     },
     {
@@ -343,14 +351,6 @@
       "organo": "PLENO AYUNTAMIENTO DE OBANOS",
       "importe": 396738.62,
       "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=26100610400102F9BFCB",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "2026/CO_NPRI/0029",
-      "title": "Patrocinio publicitario al Deportivo Alavés S.A.D. por su participación en la liga EA Sports durante la temporada 2026-2027",
-      "organo": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
-      "importe": 388429.75,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso747579/es_doc/index.html",
       "data_kind": "official_sample"
     }
   ],
