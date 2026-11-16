@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:32:27.494490Z",
+  "generated_at": "2026-11-16T13:25:08.189819Z",
   "generated_by": "github-actions",
   "architecture": {
     "homepage": "cached_highlights_on_github",
@@ -7,14 +7,14 @@
     "hosting_note": "PC apagado OK: Pages + Worker + caché en GitHub."
   },
   "bdns_totals": {
-    "convocatorias_total": 664827,
-    "concesiones_total": 31909898,
+    "convocatorias_total": 664846,
+    "concesiones_total": 31910748,
     "provenance": "BDNS API totalElements",
     "data_kind": "official"
   },
   "placsp_meta": {
-    "feed_updated": "2026-11-15T03:00:27.748+01:00",
-    "entries_sampled": 3,
+    "feed_updated": "2026-11-16T03:00:24.596+01:00",
+    "entries_sampled": 19,
     "provenance": "PLACSP Atom sindicacion_1044",
     "data_kind": "official_sample"
   },
@@ -22,7 +22,7 @@
     {
       "id": "bdns-universe",
       "eyebrow": "Universo BDNS · oficial",
-      "value_num": 31909898,
+      "value_num": 31910748,
       "value_kind": "number",
       "title": "concesiones de ayudas registradas",
       "note": "Metadato oficial totalElements",
@@ -42,10 +42,10 @@
     {
       "id": "top-contract-feed",
       "eyebrow": "Contrato top · feed PLACSP",
-      "value_num": 3142611.3,
+      "value_num": 3470000.0,
       "value_kind": "euro",
-      "title": "Agencia de Contratación Sanitaria de la Comunidad de Madrid",
-      "note": "Contrato de obras para el acondicionamiento del Pabellón 2 del Hospital Enfermera Isabel Zendal",
+      "title": "LANTIK-Diputado Foral y Presidente/a",
+      "note": "Servicio de acceso/asesoramiento a informes de investigación en tecnologías de la información",
       "href": "/contratos",
       "data_kind": "official_sample"
     }
@@ -61,7 +61,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "VICECONSEJERÍA DE LA POLÍTICA AGRARIA COMÚN Y POLÍTICA AGROAMBIENTAL",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159808660,
@@ -73,7 +73,7 @@
       "territorio": "CATALUÑA",
       "organo": "DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159810763,
@@ -85,7 +85,7 @@
       "territorio": "CATALUÑA",
       "organo": "DEPARTAMENT DE DRETS SOCIALS I INCLUSIÓ",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159782311,
@@ -97,7 +97,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "VICECONSEJERÍA DE LA POLÍTICA AGRARIA COMÚN Y POLÍTICA AGROAMBIENTAL",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159782329,
@@ -109,7 +109,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159810980,
@@ -121,7 +121,7 @@
       "territorio": "ILLES BALEARS",
       "organo": "DIRECCIÓN GENERAL DEL TESORO, POLÍTICA FINANCIERA Y PATRIMONIO",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159782331,
@@ -133,7 +133,7 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "DIRECCIÓN GENERAL DE EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159810982,
@@ -145,7 +145,7 @@
       "territorio": "ILLES BALEARS",
       "organo": "DIRECCIÓN GENERAL DEL TESORO, POLÍTICA FINANCIERA Y PATRIMONIO",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159782309,
@@ -157,7 +157,31 @@
       "territorio": "CASTILLA-LA MANCHA",
       "organo": "VICECONSEJERÍA DE LA POLÍTICA AGRARIA COMÚN Y POLÍTICA AGROAMBIENTAL",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
+    },
+    {
+      "id": 159812196,
+      "fecha": "2026-11-13",
+      "importe": 11307,
+      "beneficiario": "JOSE FEBRER, S.L.",
+      "nif": "B57790800",
+      "convocatoria": "Resolución del consejero de Economía, Hacienda e Innovación por la cual se aprueba la convocatoria de ayudas para 2026-2027 a empresas con actividad en Islas Baleares para cubrir las comisiones de apertura i estudio, intereses y costa aval de SGR para op.",
+      "territorio": "ILLES BALEARS",
+      "organo": "DIRECCIÓN GENERAL DEL TESORO, POLÍTICA FINANCIERA Y PATRIMONIO",
+      "data_kind": "official",
+      "window": "2026-11-13 → 2026-11-16"
+    },
+    {
+      "id": 159812197,
+      "fecha": "2026-11-13",
+      "importe": 10483.5,
+      "beneficiario": "JOSE FEBRER, S.L.",
+      "nif": "B57790800",
+      "convocatoria": "Resolución del consejero de Economía, Hacienda e Innovación por la cual se aprueba la convocatoria de ayudas para 2026-2027 a empresas con actividad en Islas Baleares para cubrir las comisiones de apertura i estudio, intereses y costa aval de SGR para op.",
+      "territorio": "ILLES BALEARS",
+      "organo": "DIRECCIÓN GENERAL DEL TESORO, POLÍTICA FINANCIERA Y PATRIMONIO",
+      "data_kind": "official",
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159794079,
@@ -169,7 +193,7 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "SERVICIO NAVARRO DE EMPLEO - NAFAR LANSARE",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159810979,
@@ -181,7 +205,7 @@
       "territorio": "ILLES BALEARS",
       "organo": "DIRECCIÓN GENERAL DEL TESORO, POLÍTICA FINANCIERA Y PATRIMONIO",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159802939,
@@ -193,7 +217,7 @@
       "territorio": "CATALUÑA",
       "organo": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     },
     {
       "id": 159794076,
@@ -205,40 +229,32 @@
       "territorio": "COMUNIDAD FORAL DE NAVARRA",
       "organo": "SERVICIO NAVARRO DE EMPLEO - NAFAR LANSARE",
       "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
-    },
-    {
-      "id": 159802923,
-      "fecha": "2026-11-13",
-      "importe": 6935.97,
-      "beneficiario": "ROLLBOX GAMES, SL",
-      "nif": "B02908135",
-      "convocatoria": "Resolución para la concesión de subvenciones a proyectos de internacionalización de empresas y entidades del ámbito del videojuego, o que contribuyan a la presencia de productos o servicios digitales interactivos culturales en el exterior",
-      "territorio": "CATALUÑA",
-      "organo": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
-      "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
-    },
-    {
-      "id": 159802935,
-      "fecha": "2026-11-13",
-      "importe": 6728.47,
-      "beneficiario": "UNDERGAMES,SL.",
-      "nif": "B64318629",
-      "convocatoria": "Resolución para la concesión de subvenciones a proyectos de internacionalización de empresas y entidades del ámbito del videojuego, o que contribuyan a la presencia de productos o servicios digitales interactivos culturales en el exterior",
-      "territorio": "CATALUÑA",
-      "organo": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
-      "data_kind": "official",
-      "window": "2026-11-12 → 2026-11-15"
+      "window": "2026-11-13 → 2026-11-16"
     }
   ],
   "top_contracts": [
+    {
+      "folder": "6278",
+      "title": "Servicio de acceso/asesoramiento a informes de investigación en tecnologías de la información",
+      "organo": "LANTIK-Diputado Foral y Presidente/a",
+      "importe": 3470000.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3584911/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
     {
       "folder": "PA OBRA 60/2025 (A/OBR-000582/2026)",
       "title": "Contrato de obras para el acondicionamiento del Pabellón 2 del Hospital Enfermera Isabel Zendal",
       "organo": "Agencia de Contratación Sanitaria de la Comunidad de Madrid",
       "importe": 3142611.3,
       "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/contrato-obras-acondicionamiento-pabellon-2-hospital-enfermera-isabel-zendal",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "2026/2106",
+      "title": "El objeto del contrato es la prestación del servicio de transporte y gestión de los residuos procedentes de los puntos limpios fijos y móviles gestionados por el Consejo Comarcal del Berguedà, incluyendo todas las operaciones necesarias para su entrega a gestores autorizados, la valorización, el tratamiento y, en su caso, la eliminación final de las distintas fracciones recogidas, de conformidad con la normativa vigente en materia de residuos.",
+      "organo": "Consell Comarcal del Berguedà",
+      "importe": 2007626.35,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/e141682a-3186-4058-950e-8271f7b1f148/300938949",
       "data_kind": "official_sample"
     },
     {
@@ -250,11 +266,91 @@
       "data_kind": "official_sample"
     },
     {
+      "folder": "CONTR/2026/000000093",
+      "title": "Subministrament de l'equipament del nou servei de rehabilitació de l'institut d'assistència sanitària",
+      "organo": "Institut d'Assistència Sanitària (IAS)",
+      "importe": 656201.6,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/cfb8e1c5-ee32-4773-ad2f-d24c31bd93a3/300922572",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "13/2026-ES",
+      "title": "Estadística de servicios y acción social (essec) 2027-2028",
+      "organo": "Gobierno Vasco-Dirección de Servicios",
+      "importe": 512396.7,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso723214/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "26/095",
+      "title": "Servicio de inserciones informativas y análisis de métricas de personas usuarias en las instalaciones de Metro Bilbao",
+      "organo": "Metro Bilbao, S.A.-Consejo de Administración",
+      "importe": 410400.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso762285/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "CONTR-2026/000000088",
+      "title": "Subministrament de Verdura, conserves vegetals i espècies per al Servei de Cuina de l'HSC.IAS.",
+      "organo": "Institut d'Assistència Sanitària (IAS)",
+      "importe": 320255.7,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/7c0d79ac-3c43-432a-9b37-896fb0c436ec/300922568",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "CONTR/2026/000000074",
+      "title": "Subministrament Material Fungible Sanitari - Pròtesis i Expansors Mamaris",
+      "organo": "Institut d'Assistència Sanitària (IAS)",
+      "importe": 192717.75,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/ea233699-506e-4176-935e-3705aa813ac1/300922576",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "CONTR/2026/000000128",
+      "title": "ubministrament de l'Equipament dele Nou Servei de Rehabilitació de l'IAS. Lots deserts.",
+      "organo": "Institut d'Assistència Sanitària (IAS)",
+      "importe": 118300.0,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/862207d6-6702-4c79-aa99-aff16e50d6ba/300922570",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "PCP-2683",
+      "title": "El objeto del presente contrato es licitar el suministro de equipamiento de electromedicina y mobiliario clínico para la Unidad de Soporte a la Investigación Clínica (de ahora en adelante ‘’USRC’’) de la Fundación Instituto de Investigación Biomédica de Bellvitge (de ahora en adelante ‘’IDIBELL’’), todo de conformidad con las disposiciones legales vigentes.",
+      "organo": "Institut d'Investigació Biomèdica de Bellvitge (IDIBELL)",
+      "importe": 112280.0,
+      "source_url": "https://contractaciopublica.cat/es/detall-publicacio/06ecf2f7-5d22-4ca0-a174-2eeb4933260d/300938988",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "8341_0021-PL52-2025-000056",
+      "title": "Concejo Gerendiain",
+      "organo": "Concejo Gerendiain",
+      "importe": 74530.67,
+      "source_url": "https://hacienda.navarra.es/sicpportal/ctaDatosAdjudicacion.aspx?cod=8341&Ticket=261115202837812E1B69",
+      "data_kind": "official_sample"
+    },
+    {
       "folder": "AZZ 41-26",
       "title": "Servicios de Empleo y Formación de la Agencia de Desarrollo Local de Abanto Zierbena.",
       "organo": "Abanto-Zierbena Zerbitzuak, S.L.-Consejo de Administración",
       "importe": 63973.7,
       "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso762240/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "11/2026 CM",
+      "title": "Servicios de Agencia de Comunicación Madrid en Danza, Mercado de la Danza y Teatralia",
+      "organo": "Madrid Cultura y Turismo, S.A.U.",
+      "importe": 59000.0,
+      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-agencia-comunicacion-madrid-danza-mercado-danza-teatralia",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "CONTR 2026 0000344176",
+      "title": "Inversiones 2026 Escuela de la Joyería",
+      "organo": "Dirección Provincial del Servicio Andaluz de Empleo de Córdoba",
+      "importe": 52930.0,
+      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1034684",
       "data_kind": "official_sample"
     }
   ],
