@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:16:09.901864Z",
+  "generated_at": "2026-11-22T13:08:07.741590Z",
   "generated_by": "github-actions",
   "architecture": {
     "homepage": "cached_highlights_on_github",
@@ -7,13 +7,13 @@
     "hosting_note": "PC apagado OK: Pages + Worker + caché en GitHub."
   },
   "bdns_totals": {
-    "convocatorias_total": 666463,
-    "concesiones_total": 32007574,
+    "convocatorias_total": 666466,
+    "concesiones_total": 32021611,
     "provenance": "BDNS API totalElements",
     "data_kind": "official"
   },
   "placsp_meta": {
-    "feed_updated": "2026-11-21T03:00:41.834+01:00",
+    "feed_updated": "2026-11-22T03:00:26.041+01:00",
     "entries_sampled": 80,
     "provenance": "PLACSP Atom sindicacion_1044",
     "data_kind": "official_sample"
@@ -22,7 +22,7 @@
     {
       "id": "bdns-universe",
       "eyebrow": "Universo BDNS · oficial",
-      "value_num": 32007574,
+      "value_num": 32021611,
       "value_kind": "number",
       "title": "concesiones de ayudas registradas",
       "note": "Metadato oficial totalElements",
@@ -32,11 +32,11 @@
     {
       "id": "top-grant-window",
       "eyebrow": "Ayuda más alta · últimos días",
-      "value_num": 59113.14,
+      "value_num": 20880,
       "value_kind": "euro",
-      "title": "Q3116662B FEDERACION NAVARRA DE FUTBOL",
-      "note": "COMUNIDAD FORAL DE NAVARRA · 2026-11-20 · concedido ≠ pagado",
-      "href": "/subvenciones/159918604",
+      "title": "CADEMADRID, S.L.",
+      "note": "COMUNIDAD DE MADRID · 2026-11-20 · concedido ≠ pagado",
+      "href": "/subvenciones/159933291",
       "data_kind": "official"
     },
     {
@@ -52,184 +52,184 @@
   ],
   "top_grants": [
     {
-      "id": 159918604,
+      "id": 159933291,
       "fecha": "2026-11-20",
-      "importe": 59113.14,
-      "beneficiario": "Q3116662B FEDERACION NAVARRA DE FUTBOL",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 20880,
+      "beneficiario": "CADEMADRID, S.L.",
+      "nif": "B82223231",
+      "convocatoria": "SUBV. ACC. FORM. CERT. PROF. PNL ASOC.(CPPA 2023)-COMPENSACIÓN EMPRESAS-L2",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918601,
+      "id": 159933303,
       "fecha": "2026-11-20",
-      "importe": 54679.65,
-      "beneficiario": "Q3116657B FEDERACION NAVARRA DE BALONMANO",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 18192,
+      "beneficiario": "GRUPO ROUX HOSTELERÖA Y PISCINAS S.",
+      "nif": "B87815957",
+      "convocatoria": "SUBV. ACC. FORM. CERT. PROF. PNL ASOC.(CPPA 2023)-COMPENSACIÓN EMPRESAS-L2",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918603,
+      "id": 159933326,
       "fecha": "2026-11-20",
-      "importe": 46921.05,
-      "beneficiario": "Q3116656D FEDERACION NAVARRA DE BALONCESTO",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 10000,
+      "beneficiario": "LATIDO CULTURA SL",
+      "nif": "B06878151",
+      "convocatoria": "AYUDAS PYMES COMERCIALES, DE SERVICIOS Y ARTESANAS 2026",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918629,
+      "id": 159933324,
       "fecha": "2026-11-20",
-      "importe": 46628.15,
-      "beneficiario": "Q3116654I FEDERACION NAVARRA DE ATLETISMO",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 10000,
+      "beneficiario": "TACTICA INTERIORISMO SL",
+      "nif": "B25922188",
+      "convocatoria": "AYUDAS PYMES COMERCIALES, DE SERVICIOS Y ARTESANAS 2026",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918607,
+      "id": 159933330,
       "fecha": "2026-11-20",
-      "importe": 45620.56,
-      "beneficiario": "FEDERACION NAVARRA DE CICLISMO",
-      "nif": "G31192875",
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 9441.08,
+      "beneficiario": "CHIPIONEROS SERVICIOS DE HOSTELERÍA, S.L",
+      "nif": "B75802462",
+      "convocatoria": "AYUDAS PYMES COMERCIALES, DE SERVICIOS Y ARTESANAS 2026",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918619,
+      "id": 159933327,
       "fecha": "2026-11-20",
-      "importe": 42115.94,
-      "beneficiario": "Q3120472J FEDERACION NAVARRA DE JUDO Y D A",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 8462,
+      "beneficiario": "SPICY RED ORANGE5 SL",
+      "nif": "B75890830",
+      "convocatoria": "AYUDAS PYMES COMERCIALES, DE SERVICIOS Y ARTESANAS 2026",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918602,
+      "id": 159933306,
       "fecha": "2026-11-20",
-      "importe": 41485.6,
-      "beneficiario": "Q3120120E FEDERACION NAVARRA DE TAEKWONDO",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 8046,
+      "beneficiario": "FUNDACION AMAS SOCIAL",
+      "nif": "G83160416",
+      "convocatoria": "SUBV. ACC. FORM. CERT. PROF. PNL ASOC.(CPPA 2023)-COMPENSACIÓN EMPRESAS-L2",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918631,
+      "id": 159933325,
       "fecha": "2026-11-20",
-      "importe": 39853.06,
-      "beneficiario": "Q3119304H FEDERACION NAVARRA DE PELOTA",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 7688.33,
+      "beneficiario": "ALFREDO STYLER ESTILISMO SL",
+      "nif": "B87756839",
+      "convocatoria": "AYUDAS PYMES COMERCIALES, DE SERVICIOS Y ARTESANAS 2026",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918626,
+      "id": 159933277,
       "fecha": "2026-11-20",
-      "importe": 39748.66,
-      "beneficiario": "FEDERACION NAVARRA DE NATACION",
-      "nif": "G31166663",
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 6684,
+      "beneficiario": "LOGYFOR ASOC.CENTROS DE FORMAC.EN LOGIST",
+      "nif": "G87753661",
+      "convocatoria": "SUBV. ACC. FORM. CERT. PROF. PNL ASOC.(CPPA 2023)-COMPENSACIÓN EMPRESAS-L2",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918605,
+      "id": 159933329,
       "fecha": "2026-11-20",
-      "importe": 30775.78,
-      "beneficiario": "FEDERACION NAVARRA DE PADEL",
-      "nif": "G31809064",
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 6252.43,
+      "beneficiario": "PANADARIO, S.L.",
+      "nif": "B16815953",
+      "convocatoria": "AYUDAS PYMES COMERCIALES, DE SERVICIOS Y ARTESANAS 2026",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918628,
+      "id": 159933266,
       "fecha": "2026-11-20",
-      "importe": 29999.92,
-      "beneficiario": "FEDERACION NAVARRA DE BEISBOL Y SOFBOL",
-      "nif": "G31166580",
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 6000,
+      "beneficiario": "BOREAL VETERINARY CLINIC SL",
+      "nif": "B21785894",
+      "convocatoria": "FINANCIACION ESTATAL - AMPLIACION: L2_CONTRATACION ESTABLE PERSONAS JOVENES",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918616,
+      "id": 159933260,
       "fecha": "2026-11-20",
-      "importe": 27191.92,
-      "beneficiario": "Q3116667A FEDERACION NAVARRA DE PATINAJE",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 6000,
+      "beneficiario": "STELARS MUSIC EVENTS",
+      "nif": "B56614282",
+      "convocatoria": "FINANCIACION ESTATAL - AMPLIACION: L2_CONTRATACION ESTABLE PERSONAS JOVENES",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918630,
+      "id": 159933258,
       "fecha": "2026-11-20",
-      "importe": 24630.47,
-      "beneficiario": "Q3116650G FEDERACION NAVARRA DE MONTAÑA Y ESCALADA",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 6000,
+      "beneficiario": "JADOG PET CARE SL",
+      "nif": "B24919003",
+      "convocatoria": "FINANCIACION ESTATAL - AMPLIACION: L2_CONTRATACION ESTABLE PERSONAS JOVENES",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918606,
+      "id": 159933257,
       "fecha": "2026-11-20",
-      "importe": 19096.5,
-      "beneficiario": "Q3119440J FEDERACION NAVARRA DE DEPORTES DE INVIERNO",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 6000,
+      "beneficiario": "MRJ CONCEPT SL",
+      "nif": "B26713529",
+      "convocatoria": "FINANCIACION ESTATAL - AMPLIACION: L2_CONTRATACION ESTABLE PERSONAS JOVENES",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     },
     {
-      "id": 159918613,
+      "id": 159933254,
       "fecha": "2026-11-20",
-      "importe": 18756.15,
-      "beneficiario": "Q3120837D FEDERACION NAVARRA DE KARATE",
-      "nif": null,
-      "convocatoria": "Subvenciones a Federaciones Deportivas de Navarra para el desarrollo de Programas de Rendimiento Deportivo, entre 1 septiembre 2026  y el 31 agosto 2027",
-      "territorio": "COMUNIDAD FORAL DE NAVARRA",
-      "organo": "INSTITUTO NAVARRO DE DEPORTE",
+      "importe": 6000,
+      "beneficiario": "DEFFERARY",
+      "nif": "B56629868",
+      "convocatoria": "FINANCIACION ESTATAL - AMPLIACION: L2_CONTRATACION ESTABLE PERSONAS JOVENES",
+      "territorio": "COMUNIDAD DE MADRID",
+      "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-18 → 2026-11-21"
+      "window": "2026-11-19 → 2026-11-22"
     }
   ],
   "top_contracts": [
@@ -242,27 +242,19 @@
       "data_kind": "official_sample"
     },
     {
-      "folder": "P20023371",
-      "title": "Obra del segundo vestíbulo de Anoeta",
-      "organo": "Euskal Trenbide Sarea-Secretaría General",
-      "importe": 12293758.43,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso326909/es_doc/index.html",
+      "folder": "2026/01360",
+      "title": "Suministro de Equipos de Cobertura Quirúrgica Desechable y otros textiles relacionados para la OSI Ezkerraldea Enkarterri Cruces",
+      "organo": "OSAKIDETZA - Servicio Vasco de Salud -Director Gerente",
+      "importe": 6027671.49,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/exposakisap2026001360/es_doc/index.html",
       "data_kind": "official_sample"
     },
     {
-      "folder": "AJT/143780/2026",
-      "title": "Contrato de servicios de gestión de las escuelas infantiles municipales (2 lotes)",
-      "organo": "Ajuntament de l'Hospitalet de Llobregat",
-      "importe": 9956463.18,
-      "source_url": "https://contractaciopublica.cat/es/detall-publicacio/2e3e81a0-9baa-4e6a-8e2a-38d68ba2533c/300945951",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "2023/0031/073/10",
-      "title": "Consultoría y asistencia técnica para la digitalización de las carreteras de la Diputación Foral de Bizkaia",
-      "organo": "Diputación Foral de Bizkaia-Diputado Foral de Infraestructuras y Desarrollo Territorial",
-      "importe": 1627554.87,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia2135234/es_doc/index.html",
+      "folder": "2026/01147",
+      "title": "Suministro de equipamiento médico para varios servicios del Hospital Universitario Araba Txagorritxu",
+      "organo": "OSAKIDETZA - Servicio Vasco de Salud -Director General",
+      "importe": 1677928.34,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/exposakisap2026001147/es_doc/index.html",
       "data_kind": "official_sample"
     },
     {
@@ -282,27 +274,11 @@
       "data_kind": "official_sample"
     },
     {
-      "folder": "O0001/2026",
-      "title": "Obra de edificación, urbanización y aparcamiento interior en la comisaría de Laudio.",
-      "organo": "Gobierno Vasco-Viceconsejería de Seguridad",
-      "importe": 1270165.97,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso706949/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
       "folder": "A/SUM-043313/2026",
       "title": "Acuerdo Marco para el suministro de podoscopios, pulxiosimetros, tensiómetros y oto-oftalmoscopios con destino a los centros dependientes de la Gerencia Asistencial de Atención Primarial del Servicio Madrileño de Salud",
       "organo": "Gerencia Asistencial de Atención Primaria",
       "importe": 1247871.64,
       "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/acuerdo-marco-suministro-podoscopios-pulxiosimetros-tensiometros-oto",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "CONTR 2026 0000289569",
-      "title": "servicio conservación , mantenimiento integral y gest. tec. almanjáyar",
-      "organo": "Delegación Territorial de Economía, Hacienda, Fondos Europeos y de Industria, Energía y Minas en Granada",
-      "importe": 988278.74,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1007355",
       "data_kind": "official_sample"
     },
     {
@@ -319,14 +295,6 @@
       "organo": "Agencia Pública Andaluza de Educación",
       "importe": 800302.24,
       "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=979734",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "2025/0018/071/02",
-      "title": "Trabajos selvícolas de mantenimiento Sección III 2025-2026",
-      "organo": "Diputación Foral de Bizkaia-Diputada Foral de Sostenibilidad y Medio Natural",
-      "importe": 755332.0,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia2837043/es_doc/index.html",
       "data_kind": "official_sample"
     },
     {
@@ -351,6 +319,38 @@
       "organo": "Canal de Isabel II, S.A.",
       "importe": 543400.29,
       "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-equipaciones-instalaciones-deportivas-deposito-tercero-canal-isabel-0",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "CONTR 2026 0000185471",
+      "title": "am suministro material ferreteria y carpinteria metalica - ema - infoca",
+      "organo": "Agencia de Emergencias de Andalucía",
+      "importe": 495600.0,
+      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1035266",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "PRODECA-2027-5",
+      "title": "Serveis de disseny, muntatge, desmuntatge, manteniment i supervisió dels estands que conformen el pavellons de Catalunya a les fires Seafood Expo Global, Salón Gourmets i Summer Fancy Food Show.",
+      "organo": "Promotora d'Exportacions Catalanes, SA",
+      "importe": 440077.72,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/f6d9a319-b4b4-4855-af06-19ad0cf75a3c/300946122",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "A/SER-028791/2026",
+      "title": "Apoyo a la gestión y mantenimiento de los núcleos ganaderos del Censyra y de la Finca \"La Chimenea\",adscritos al IMIDRA",
+      "organo": "Organismo Autónomo Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA)",
+      "importe": 428562.85,
+      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/apoyo-gestion-mantenimiento-nucleos-ganaderos-censyra-finca-chimenea-adscritos",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "3002_Casa Consistorial fase 2",
+      "title": "Reforma de la Casa Consistorial - Fase 2 ampliación",
+      "organo": "Junta de Gobierno Local",
+      "importe": 426848.5,
+      "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261105100140FA027391",
       "data_kind": "official_sample"
     }
   ],
