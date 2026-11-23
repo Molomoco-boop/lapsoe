@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:08:07.741590Z",
+  "generated_at": "2026-11-23T15:45:20.169092Z",
   "generated_by": "github-actions",
   "architecture": {
     "homepage": "cached_highlights_on_github",
@@ -7,14 +7,14 @@
     "hosting_note": "PC apagado OK: Pages + Worker + caché en GitHub."
   },
   "bdns_totals": {
-    "convocatorias_total": 666466,
-    "concesiones_total": 32021611,
+    "convocatorias_total": 666749,
+    "concesiones_total": 32022287,
     "provenance": "BDNS API totalElements",
     "data_kind": "official"
   },
   "placsp_meta": {
-    "feed_updated": "2026-11-22T03:00:26.041+01:00",
-    "entries_sampled": 80,
+    "feed_updated": "2026-11-23T03:00:30.023+01:00",
+    "entries_sampled": 17,
     "provenance": "PLACSP Atom sindicacion_1044",
     "data_kind": "official_sample"
   },
@@ -22,7 +22,7 @@
     {
       "id": "bdns-universe",
       "eyebrow": "Universo BDNS · oficial",
-      "value_num": 32021611,
+      "value_num": 32022287,
       "value_kind": "number",
       "title": "concesiones de ayudas registradas",
       "note": "Metadato oficial totalElements",
@@ -42,10 +42,10 @@
     {
       "id": "top-contract-feed",
       "eyebrow": "Contrato top · feed PLACSP",
-      "value_num": 55131601.6,
+      "value_num": 2658071.96,
       "value_kind": "euro",
-      "title": "Servicio Andaluz de Salud",
-      "note": "paam 273/2025 - sevilla - contr 2025 0000697024-acuerdo marco con varias empresas por el que se fijan las condiciones pa",
+      "title": "Agencia de Emergencias de Andalucía",
+      "note": "servicio de maquinaria pesada de apoyo a trabajos. plan infoca. 2027-2030",
       "href": "/contratos",
       "data_kind": "official_sample"
     }
@@ -61,7 +61,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933303,
@@ -73,7 +73,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933326,
@@ -85,7 +85,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933324,
@@ -97,7 +97,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933330,
@@ -109,7 +109,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933327,
@@ -121,7 +121,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933306,
@@ -133,7 +133,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933325,
@@ -145,7 +145,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933277,
@@ -157,7 +157,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933329,
@@ -169,7 +169,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933266,
@@ -181,7 +181,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933260,
@@ -193,7 +193,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933258,
@@ -205,7 +205,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933257,
@@ -217,7 +217,7 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     },
     {
       "id": 159933254,
@@ -229,128 +229,128 @@
       "territorio": "COMUNIDAD DE MADRID",
       "organo": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
       "data_kind": "official",
-      "window": "2026-11-19 → 2026-11-22"
+      "window": "2026-11-20 → 2026-11-23"
     }
   ],
   "top_contracts": [
     {
-      "folder": "CONTR 2025 0000697024",
-      "title": "paam 273/2025 - sevilla - contr 2025 0000697024-acuerdo marco con varias empresas por el que se fijan las condiciones para la contratación del servicio de asistencia sanitaria complementaria de realización de pruebas diagnósticas a usuarios del servicio andaluz de salud (sas) de la provincia de sevilla en centros sanitarios y servicios privados de la provincia de sevilla, mediante procedimiento abierto y presentación electrónica de ofertas. (siglo 0001141/2025)",
-      "organo": "Servicio Andaluz de Salud",
-      "importe": 55131601.6,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=876547",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "2026/01360",
-      "title": "Suministro de Equipos de Cobertura Quirúrgica Desechable y otros textiles relacionados para la OSI Ezkerraldea Enkarterri Cruces",
-      "organo": "OSAKIDETZA - Servicio Vasco de Salud -Director Gerente",
-      "importe": 6027671.49,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/exposakisap2026001360/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "2026/01147",
-      "title": "Suministro de equipamiento médico para varios servicios del Hospital Universitario Araba Txagorritxu",
-      "organo": "OSAKIDETZA - Servicio Vasco de Salud -Director General",
-      "importe": 1677928.34,
-      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/exposakisap2026001147/es_doc/index.html",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "PA 2026-7-003 (A/SUM-014922/2026)",
-      "title": "Suministro, instalación y puesta en funcionamiento del equipamiento asistenciaL vital y equipamiento quirúrgico para la Fase III del Plan Director del Hospital Clinico San Carlos",
-      "organo": "Hospital Universitario Clínico San Carlos",
-      "importe": 1466000.0,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-instalacion-puesta-funcionamiento-equipamiento-asistencial-vital",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "PA 2026-7-445 (A/SUM-042170/2026)",
-      "title": "Suministro, instalación y puesta en funcionamiento de equipos de anestesia de gama media, gama alta y monitorización hemodinámica con destino al Servicio de anestesiadel Hospital clínico San Carlos",
-      "organo": "Hospital Universitario Clínico San Carlos",
-      "importe": 1420000.0,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-instalacion-puesta-funcionamiento-equipos-anestesia-gama-media-gama",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "A/SUM-043313/2026",
-      "title": "Acuerdo Marco para el suministro de podoscopios, pulxiosimetros, tensiómetros y oto-oftalmoscopios con destino a los centros dependientes de la Gerencia Asistencial de Atención Primarial del Servicio Madrileño de Salud",
-      "organo": "Gerencia Asistencial de Atención Primaria",
-      "importe": 1247871.64,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/acuerdo-marco-suministro-podoscopios-pulxiosimetros-tensiometros-oto",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "C-332B/007-26 (A/SER-015143/2026)",
-      "title": "Gestión del servicio de seis puntos de servicio de biblioteca en el Metro de Madrid (Bibliometro)",
-      "organo": "Consejería de Cultura, Turismo y Deporte",
-      "importe": 891024.86,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/gestion-servicio-seis-puntos-servicio-biblioteca-metro-madrid-bibliometro-0",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "CONTR 2026 0000220103",
-      "title": "224/ise/2026/ja-serv de apoyo y asistencia escolar alumnado nee jaén",
-      "organo": "Agencia Pública Andaluza de Educación",
-      "importe": 800302.24,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=979734",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "F260000714-715",
-      "title": "Servicios de asistencia técnica para el impulso y acompañamiento a la rehabilitación de edificios de viviendas privadas en el marco del Plan de Barrios. Lotes 1 y 2, con medidas de contratación pública sostenible.",
-      "organo": "Foment de Ciutat SA",
-      "importe": 638031.79,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/b1ebd6cd-9283-4fd4-a133-3237a441516b/300942949",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "BE-2027-33",
-      "title": "Servei d'Assessorament en matèria migratòria 'info-migració'",
-      "organo": "Departament de Drets Socials i Inclusió",
-      "importe": 600426.12,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/f7430fc8-797a-4ed0-8d9e-b75d86cc1b38/300946117",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "124-2026",
-      "title": "Suministro de equipaciones para las instalaciones deportivas del depósito tercero de Canal de Isabel II y suministro de equipaciones y material deportivo para empleados",
-      "organo": "Canal de Isabel II, S.A.",
-      "importe": 543400.29,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/suministro-equipaciones-instalaciones-deportivas-deposito-tercero-canal-isabel-0",
-      "data_kind": "official_sample"
-    },
-    {
-      "folder": "CONTR 2026 0000185471",
-      "title": "am suministro material ferreteria y carpinteria metalica - ema - infoca",
+      "folder": "CONTR 2026 0000213002",
+      "title": "servicio de maquinaria pesada de apoyo a trabajos. plan infoca. 2027-2030",
       "organo": "Agencia de Emergencias de Andalucía",
-      "importe": 495600.0,
-      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1035266",
+      "importe": 2658071.96,
+      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1011683",
       "data_kind": "official_sample"
     },
     {
-      "folder": "PRODECA-2027-5",
-      "title": "Serveis de disseny, muntatge, desmuntatge, manteniment i supervisió dels estands que conformen el pavellons de Catalunya a les fires Seafood Expo Global, Salón Gourmets i Summer Fancy Food Show.",
-      "organo": "Promotora d'Exportacions Catalanes, SA",
-      "importe": 440077.72,
-      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/f6d9a319-b4b4-4855-af06-19ad0cf75a3c/300946122",
+      "folder": "202600910",
+      "title": "El servicio de limpieza integral de las instalaciones deportivas de Barakaldo Kirolak.",
+      "organo": "Barakaldo Kirolak-Consejo de dirección",
+      "importe": 2332512.46,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso765800/es_doc/index.html",
       "data_kind": "official_sample"
     },
     {
-      "folder": "A/SER-028791/2026",
-      "title": "Apoyo a la gestión y mantenimiento de los núcleos ganaderos del Censyra y de la Finca \"La Chimenea\",adscritos al IMIDRA",
-      "organo": "Organismo Autónomo Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA)",
-      "importe": 428562.85,
-      "source_url": "https://contratos-publicos.comunidad.madrid/contrato-publico/apoyo-gestion-mantenimiento-nucleos-ganaderos-censyra-finca-chimenea-adscritos",
+      "folder": "2026/CO_ASER/0121",
+      "title": "Contrato de servicios en los apartamentos tutelados para las personas mayores, LAR de atención diurna, comedor, ubicados en Beato Tomas de Zumárraga número 1, letra H",
+      "organo": "Ayuntamiento de Vitoria-Gasteiz-Junta de Gobierno Local",
+      "importe": 1661891.03,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso765462/es_doc/index.html",
       "data_kind": "official_sample"
     },
     {
-      "folder": "3002_Casa Consistorial fase 2",
-      "title": "Reforma de la Casa Consistorial - Fase 2 ampliación",
-      "organo": "Junta de Gobierno Local",
-      "importe": 426848.5,
-      "source_url": "https://hacienda.navarra.es/sicpportal/mtoAnunciosModalidad.aspx?cod=261105100140FA027391",
+      "folder": "P20027926",
+      "title": "Servicio de ejecución de los trabajos en la prueba piloto de extensión del servicio ferroviario Irún - Hendaia del proyecto europeo Transfermugi en el marco de la convocatoria Interreg POCTEFA 2021-2027",
+      "organo": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
+      "importe": 1095726.47,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso729833/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "6194",
+      "title": "Servicios de modelado, diseño de la arquitectura de datos, administración del modelo de datos, gobierno y la calidad de los datos, juegos de ensayo, pruebas de carga y rendimiento, soporte técnico y formación (ANS).",
+      "organo": "LANTIK-Director-Gerente",
+      "importe": 778464.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3424836/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "41/26 PN",
+      "title": "Mantenimiento de la Aplicación Universitas XXI – Económico en la UPV/EHU",
+      "organo": "UPV/EHU - Universidad del País Vasco-La Gerente de la UPV/EHU",
+      "importe": 641237.61,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso741025/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "P20028015",
+      "title": "Servicio de limpieza de estaciones e instalaciones de Bentaberri, Centro - Concha y Amara de Euskal Trenbide Sarea",
+      "organo": "Euskal Trenbide Sarea-Comisión Delegada en Materia de Contratación de ETS",
+      "importe": 411128.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso720193/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "2026031",
+      "title": "Servicios de apoyo en la evaluación de proyectos de los programas de ayuda del área de Promoción Industrial y Digitalización",
+      "organo": "SPRI-Agencia Vasca de Desarrollo Empresarial-Director General",
+      "importe": 307500.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso765652/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "X2026000846",
+      "title": "Executar les obres incloses en el Projecte d'obres anomenat Clavegueram zona de Planès: del camí de Nevà a la zona de l’Estació",
+      "organo": "Ajuntament de Planoles",
+      "importe": 247928.09,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/d5fd3ad0-cf8c-4d2c-b17d-3c60a04fff50/300942717",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "1/2025",
+      "title": "El projecte consisteix en l'adequació del Centre Cívic de Pau com a refugi climàtic en períodes d'onada de calor",
+      "organo": "Ajuntament de Pau",
+      "importe": 219874.87,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/dd5dc21b-d3c1-47f7-be8f-c2d9f13fa6db/300424237",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "CONTR 2026 0000145569",
+      "title": "servicio vigilancia para proteger las instalaciones del vadillo",
+      "organo": "Delegación Territorial de Sostenibilidad y Medio Ambiente en Jaén",
+      "importe": 128329.95,
+      "source_url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1005344",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "B073-2026-00012",
+      "title": "Contrato de obra de acondicionamiento de las oficinas de la brigada y la policia municipal de Ondarroa, con perspectiva de género.",
+      "organo": "Ayuntamiento de Ondarroa -Alcaldía",
+      "importe": 115769.76,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expgebizkaia3741688/es_doc/index.html",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "1235/2026",
+      "title": "Contracte d'obres de pavimentació dels carrers Francesc Macià i carrer Montserrat al nucli antic de Banyeres del Penedès.",
+      "organo": "Ajuntament de Banyeres del Penedès",
+      "importe": 111183.22,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/0c4e6c84-bfd2-4704-9e3b-ff4a13629ade/300946029",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "X2026000832",
+      "title": "Reforma de l’antic habitatge de l’escola per a destinar-lo a lloguer d’habitatge habitual assequible, d'acord amb el projecte aprovat.",
+      "organo": "Ajuntament de Planoles",
+      "importe": 108001.78,
+      "source_url": "https://contractaciopublica.cat/ca/detall-publicacio/d7bd0648-1693-443b-ad70-e484825ba79e/300942591",
+      "data_kind": "official_sample"
+    },
+    {
+      "folder": "SE/12/26",
+      "title": "Redacción del proyecto básico, proyecto de ejecución y dirección facultativa de las obras de cubierta de patio en el IES Antigua-Luberri BHI de Donostia (Gipuzkoa)",
+      "organo": "Gobierno Vasco-Dirección de Gestión Económica",
+      "importe": 75000.0,
+      "source_url": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso758959/es_doc/index.html",
       "data_kind": "official_sample"
     }
   ],
